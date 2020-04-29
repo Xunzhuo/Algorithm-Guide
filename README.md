@@ -42,7 +42,7 @@
 + [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
 + [数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
 + [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
-+ [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D)
++ [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D)🍟
 + [题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
 + [研究性论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86)🎄
 + [杂](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
