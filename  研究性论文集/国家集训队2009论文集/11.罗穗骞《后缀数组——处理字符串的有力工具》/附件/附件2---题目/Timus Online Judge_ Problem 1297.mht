@@ -1,0 +1,1199 @@
+From: =?gb2312?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3ILGjtOY=?=
+Subject: Timus Online Judge. Problem 1297
+Date: Sun, 14 Dec 2008 11:02:04 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_00D4_01C95DDB.65C1F200"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16669
+
+这是 MIME 格式的多方邮件。
+
+------=_NextPart_000_00D4_01C95DDB.65C1F200
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://acm.timus.ru/problem.aspx?space=1&num=1297
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Timus Online Judge. Problem 1297</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dutf-8"><LINK=20
+href=3D"http://acm.timus.ru/style.css" type=3Dtext/css =
+rel=3Dstylesheet><LINK=20
+href=3D"http://acm.timus.ru/style.css" type=3Dtext/css =
+rel=3Dstylesheet><LINK=20
+href=3D"/favicon.ico" type=3Dimage/x-icon rel=3D"shortcut icon">
+<META content=3D"MSHTML 6.00.6000.16757" name=3DGENERATOR></HEAD>
+<BODY vLink=3D#1a5cc8 aLink=3D#1a5cc8 link=3D#1a5cc8>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+  <TBODY>
+  <TR>
+    <TD>
+      <TABLE=20
+      style=3D"BORDER-RIGHT: #1a5cc8 1px solid; BORDER-TOP: #1a5cc8 1px =
+solid; BORDER-LEFT: #1a5cc8 1px solid; BORDER-BOTTOM: #1a5cc8 1px solid" =
+
+      cellSpacing=3D0 cellPadding=3D1 width=3D"100%" bgColor=3D#ffffff>
+        <TBODY>
+        <TR>
+          <TD align=3Dmiddle bgColor=3D#1a5cc8 colSpan=3D4><FONT =
+color=3Dwhite=20
+            size=3D5>Timus Online Judge</FONT></TD></TR>
+        <TR>
+          <TD vAlign=3Dtop align=3Dmiddle width=3D130><A=20
+            href=3D"http://www.usu.ru/index_eng.html"><IMG=20
+            alt=3D"Ural State University"=20
+            src=3D"http://acm.timus.ru/images/usu-summer.jpg" =
+border=3D0></A><BR><A=20
+            =
+href=3D"http://acm.timus.ru/problem.aspx?space=3D1&amp;num=3D1297&amp;loc=
+ale=3Den">English</A><BR><A=20
+            =
+href=3D"http://acm.timus.ru/problem.aspx?space=3D1&amp;num=3D1297&amp;loc=
+ale=3Dru">Russian</A><BR></TD>
+          <TD vAlign=3Dtop align=3Dleft width=3D200>
+            <DIV=20
+            style=3D"FONT: 1.19em Arial, Helvetica, sans-serif; =
+TEXT-ALIGN: center">Online=20
+            Judge</DIV><A href=3D"http://acm.timus.ru/">About</A><BR><A=20
+            href=3D"http://acm.timus.ru/news.aspx">News</A><BR><A=20
+            href=3D"http://acm.timus.ru/submit.aspx">Submit =
+solution</A><BR><A=20
+            href=3D"http://acm.timus.ru/problemset.aspx">Problem =
+set</A><BR><A=20
+            href=3D"http://acm.timus.ru/status.aspx">Judge =
+status</A><BR><A=20
+            href=3D"http://acm.timus.ru/forum/">Webboard</A><BR><A=20
+            =
+href=3D"http://acm.timus.ru/help.aspx?topic=3Dfaq">FAQ</A><BR><A=20
+            =
+href=3D"http://acm.timus.ru/help.aspx?topic=3Dlinks">Links</A><BR></TD>
+          <TD vAlign=3Dtop align=3Dleft width=3D200>
+            <DIV=20
+            style=3D"FONT: 1.19em Arial, Helvetica, sans-serif; =
+TEXT-ALIGN: center">Authors</DIV><A=20
+            =
+href=3D"http://acm.timus.ru/register.aspx">Register</A><BR><A=20
+            href=3D"http://acm.timus.ru/authedit.aspx">Update your =
+info</A><BR><A=20
+            href=3D"http://acm.timus.ru/ranklist.aspx">Authors =
+ranklist</A><BR>
+            <FORM style=3D"MARGIN-TOP: 0.6em" action=3D/search.aspx=20
+            method=3Dget><INPUT size=3D15 name=3DStr>=20
+            <INPUT type=3Dsubmit value=3DSearch></FORM></TD>
+          <TD vAlign=3Dtop align=3Dleft width=3D200>
+            <DIV=20
+            style=3D"FONT: 1.19em Arial, Helvetica, sans-serif; =
+TEXT-ALIGN: center">Online=20
+            contests</DIV><A =
+href=3D"http://acm.timus.ru/contest.aspx">Current=20
+            Contest</A><BR><A =
+href=3D"http://acm.timus.ru/schedule.aspx">Scheduled=20
+            contests</A><BR><A=20
+            =
+href=3D"http://acm.timus.ru/archive.aspx">Archive</A><BR></TD></TR></TBOD=
+Y></TABLE></TD></TR>
+  <TR>
+    <TD style=3D"PADDING-BOTTOM: 20px; PADDING-TOP: 32px">
+      <TABLE cellSpacing=3D0 cellPadding=3D0 align=3Dcenter>
+        <COLGROUP>
+        <COL width=3D800>
+        <TBODY>
+        <TR>
+          <TD>
+            <H2 class=3Dproblem_title>1297. Palindrome</H2>
+            <DIV class=3Dproblem_limits>Time Limit: 1.0 second<BR>Memory =
+Limit: 16=20
+            MB<BR></DIV>
+            <DIV id=3Dproblem_text>
+            <DIV class=3Dproblem_par>
+            <DIV class=3Dproblem_par_normal>The =E2=80=9CU.S. =
+Robots=E2=80=9D HQ has just received=20
+            a rather alarming anonymous letter. It states that the agent =
+from=20
+            the competing =C2=ABRobots Unlimited=C2=BB has infiltrated =
+into =E2=80=9CU.S.=20
+            Robotics=E2=80=9D. =C2=ABU.S. Robots=C2=BB security service =
+would have already started=20
+            an undercover operation to establish the agent=E2=80=99s =
+identity, but,=20
+            fortunately, the letter describes communication channel the =
+agent=20
+            uses. He will publish articles containing stolen data to the =
+
+            =E2=80=9CSolaris=E2=80=9D almanac. Obviously, he will =
+obfuscate the data, so =E2=80=9CRobots=20
+            Unlimited=E2=80=9D will have to use a special descrambler =
+(=E2=80=9CRobots=20
+            Unlimited=E2=80=9D part number NPRx8086, specifications are =
+kept=20
+            secret).</DIV></DIV>
+            <DIV class=3Dproblem_par>
+            <DIV class=3Dproblem_par_normal>Having read the letter, the =
+=E2=80=9CU.S.=20
+            Robots=E2=80=9D president recalled having hired the =
+=E2=80=9CRobots Unlimited=E2=80=9D=20
+            ex-employee John Pupkin. President knows he can trust John, =
+because=20
+            John is still angry at being mistreated by =E2=80=9CRobots =
+Unlimited=E2=80=9D.=20
+            Unfortunately, he was fired just before his team has =
+finished work=20
+            on the NPRx8086 design. </DIV></DIV>
+            <DIV class=3Dproblem_par>
+            <DIV class=3Dproblem_par_normal>So, the president has =
+assigned the=20
+            task of agent=E2=80=99s message interception to John. At =
+first, John felt=20
+            rather embarrassed, because revealing the hidden message =
+isn=E2=80=99t any=20
+            easier than finding a needle in a haystack. However, after =
+he=20
+            struggled the problem for a while, he remembered that the =
+design of=20
+            NPRx8086 was still incomplete. =E2=80=9CRobots =
+Unlimited=E2=80=9D fired John when he=20
+            was working on a specific module, the text direction =
+detector.=20
+            Nobody else could finish that module, so the descrambler =
+will choose=20
+            the text scanning direction at random. To ensure the correct =
+
+            descrambling of the message by NPRx8086, agent must encode =
+the=20
+            information in such a way that the resulting secret message =
+reads=20
+            the same both forwards and backwards.<BR>In addition, it is=20
+            reasonable to assume that the agent will be sending a very =
+long=20
+            message, so John has simply to find the longest message =
+satisfying=20
+            the mentioned property.</DIV></DIV>
+            <DIV class=3Dproblem_par>
+            <DIV class=3Dproblem_par_normal>Your task is to help John =
+Pupkin by=20
+            writing a program to find the secret message in the text of =
+a given=20
+            article. As NPRx8086 ignores white spaces and punctuation =
+marks,=20
+            John will remove them from the text before feeding it into =
+the=20
+            program.</DIV></DIV>
+            <H3 class=3Dproblem_subtitle>Input</H3>
+            <DIV class=3Dproblem_par>
+            <DIV class=3Dproblem_par_normal>The input consists of a =
+single line,=20
+            which contains a string of Latin alphabet letters (no other=20
+            characters will appear in the string). String length will =
+not exceed=20
+            1000 characters.</DIV></DIV>
+            <H3 class=3Dproblem_subtitle>Output</H3>
+            <DIV class=3Dproblem_par>
+            <DIV class=3Dproblem_par_normal>The longest substring with =
+mentioned=20
+            property. If there are several such strings you should =
+output the=20
+            first of them.</DIV></DIV>
+            <H3 class=3Dproblem_subtitle>Sample</H3>
+            <TABLE class=3Dsample>
+              <TBODY>
+              <TR>
+                <TH>input</TH></TR>
+              <TR>
+                <TD><PRE =
+class=3Dintable>ThesampletextthatcouldbereadedthesameinbothordersArozaupa=
+lanalapuazorA
+</PRE></TD></TR>
+              <TR>
+                <TH>output</TH></TR>
+              <TR>
+                <TD><PRE class=3Dintable>ArozaupalanalapuazorA
+</PRE></TD></TR></TBODY></TABLE>
+            <DIV class=3Dproblem_source><B>Problem Author: </B>Eugene=20
+            Krokhalev<BR><B>Problem Source: </B>IX Open Collegiate =
+Programming=20
+            Contest of the High School Pupils - 2004<BR></DIV></DIV>
+            <DIV class=3Dproblem_links><A=20
+            =
+href=3D"http://acm.timus.ru/print.aspx?space=3D1&amp;num=3D1297"=20
+            target=3D_blank>Print</A> &nbsp;&nbsp;&nbsp;<A=20
+            =
+href=3D"http://acm.timus.ru/detail.aspx?space=3D1&amp;num=3D1297">Statist=
+ic</A>=20
+            &nbsp;&nbsp;&nbsp;<A=20
+            =
+href=3D"http://acm.timus.ru/forum/?space=3D1&amp;num=3D1297">Discuss</A> =
+
+            &nbsp;&nbsp;&nbsp;<A=20
+            =
+href=3D"http://acm.timus.ru/submit.aspx?space=3D1&amp;num=3D1297">Submit<=
+/A></DIV></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD>
+      <DIV=20
+      style=3D"BORDER-RIGHT: #1a5cc8 1px solid; PADDING-RIGHT: 1px; =
+BORDER-TOP: #1a5cc8 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; =
+BORDER-LEFT: #1a5cc8 1px solid; WIDTH: 100%; PADDING-TOP: 1px; =
+BORDER-BOTTOM: #1a5cc8 1px solid; TEXT-ALIGN: right">=C2=A9=20
+      2000-2008 <A href=3D"http://acm.timus.ru/team.aspx">The Team</A>. =
+All rights=20
+      reserved.</DIV></TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_00D4_01C95DDB.65C1F200
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://acm.timus.ru/images/usu-summer.jpg
+
+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
+SJoW9sqBv8tw35EaImhO1C9D/9k=
+
+------=_NextPart_000_00D4_01C95DDB.65C1F200
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://acm.timus.ru/style.css
+
+CODE {
+	FONT-SIZE: 0.81em; FONT-FAMILY: monospace, "monospace for firefox"
+}
+TT {
+	FONT-SIZE: 0.81em; FONT-FAMILY: monospace, "monospace for firefox"
+}
+PRE {
+	FONT-SIZE: 0.81em; FONT-FAMILY: monospace, "monospace for firefox"
+}
+SUP {
+	VERTICAL-ALIGN: baseline; POSITION: relative; TOP: -0.4em
+}
+SUB {
+	VERTICAL-ALIGN: baseline; BOTTOM: -0.4em; POSITION: relative
+}
+PRE.intable {
+	MARGIN: 0px
+}
+TABLE.strict A {
+	COLOR: #000000
+}
+TABLE.strict A:hover {
+	COLOR: #000000
+}
+TABLE.strict A:visited {
+	COLOR: #000000
+}
+DIV#help_text CODE {
+	FONT-SIZE: 0.81em
+}
+DIV#help_text PRE.code {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; =
+PADDING-TOP: 4px; BACKGROUND-COLOR: #f0f0f0
+}
+H1.title {
+	COLOR: #1a5cc8; TEXT-ALIGN: center
+}
+H2.title {
+	COLOR: #1a5cc8; TEXT-ALIGN: center
+}
+H2.subtitle {
+	COLOR: #1a5cc8; TEXT-ALIGN: left
+}
+H3.subtitle {
+	COLOR: #1a5cc8; TEXT-ALIGN: left
+}
+TABLE.status {
+	PADDING-RIGHT: 0px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 0px; =
+PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 14px Arial, Helvetica, =
+sans-serif; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 0px; =
+BORDER-BOTTOM: #808080 1px solid; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: =
+center
+}
+TABLE.status TR.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; HEIGHT: 36px; BACKGROUND-COLOR: =
+#eeeeee
+}
+TABLE.status TR.even {
+	HEIGHT: 37px
+}
+TABLE.status TR.odd {
+	HEIGHT: 37px; BACKGROUND-COLOR: #f4f4f4
+}
+TABLE.status TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; =
+PADDING-TOP: 2px
+}
+TABLE.status TH {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; =
+PADDING-TOP: 2px
+}
+TABLE.status TD {
+	BORDER-TOP: #dddddd 1px solid
+}
+TABLE.status .id {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 64px
+}
+TABLE.status .date {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 86px
+}
+TABLE.status .coder {
+	BORDER-RIGHT: #dddddd 1px solid
+}
+TABLE.status TD.coder {
+	TEXT-ALIGN: left
+}
+TABLE.status .problem {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 68px
+}
+TABLE.status .language {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 76px
+}
+TABLE.status .result {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_wt {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_ac {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_rj {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_ac {
+	COLOR: #006600
+}
+TABLE.status .verdict_rj {
+	COLOR: #800000
+}
+TABLE.status .verdict_rj A {
+	COLOR: #800000
+}
+TABLE.status .verdict_rj A:hover {
+	COLOR: #800000
+}
+TABLE.status .verdict_rj A:visited {
+	COLOR: #800000
+}
+TABLE.status .test {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 52px
+}
+TABLE.status .runtime {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 68px
+}
+TABLE.status .memory {
+	WIDTH: 76px
+}
+TABLE.status_footer {
+	MARGIN: 10px 0px 0px; FONT: 14px Arial, Helvetica, sans-serif; WIDTH: =
+100%; COLOR: #000000; TEXT-ALIGN: left
+}
+TABLE.status_footer TD.footer_left {
+	PADDING-RIGHT: 32px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; =
+PADDING-TOP: 0px
+}
+TABLE.status_footer TD.footer_right {
+	VERTICAL-ALIGN: top; TEXT-ALIGN: right
+}
+P.status_filter {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: =
+0px; PADDING-BOTTOM: 4px; MARGIN: 0px; FONT: 12px Arial, Helvetica, =
+sans-serif; BORDER-LEFT: 0px; COLOR: #000000; PADDING-TOP: 0px; =
+BORDER-BOTTOM: 0px; TEXT-ALIGN: right
+}
+TABLE.status A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+TABLE.status_footer A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+P.status_filter A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+TABLE.rating {
+	PADDING-RIGHT: 0px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 0px; =
+MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; FONT: 14px Arial, Helvetica, =
+sans-serif; COLOR: #000000; PADDING-TOP: 0px; BACKGROUND-COLOR: #ffffff; =
+TEXT-ALIGN: center
+}
+TABLE.rating TR.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; HEIGHT: 36px; BACKGROUND-COLOR: =
+#eeeeee
+}
+TABLE.rating TR.even {
+	HEIGHT: 37px
+}
+TABLE.rating TR.odd {
+	HEIGHT: 37px
+}
+TABLE.rating TR.odd {
+	BACKGROUND-COLOR: #f4f4f4
+}
+TABLE.rating TH {
+	BORDER-RIGHT: #dddddd 1px solid; PADDING-RIGHT: 6px; PADDING-LEFT: 6px; =
+PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.rating TD {
+	BORDER-RIGHT: #dddddd 1px solid; PADDING-RIGHT: 6px; PADDING-LEFT: 6px; =
+PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.rating TD {
+	BORDER-TOP: #dddddd 1px solid
+}
+TABLE.rating .rank {
+	BORDER-LEFT: #dddddd 1px solid; WIDTH: 52px
+}
+TABLE.rating .id {
+	WIDTH: 64px
+}
+TABLE.rating .date {
+	WIDTH: 86px
+}
+TABLE.rating .coder {
+	WIDTH: 248px
+}
+TABLE.rating TD.coder {
+	TEXT-ALIGN: left
+}
+TABLE.rating .language {
+	WIDTH: 76px
+}
+TABLE.rating .runtime {
+	WIDTH: 68px
+}
+TABLE.rating .memory {
+	WIDTH: 76px
+}
+TABLE.rating TD.footer {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: #808080 1px =
+solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+TABLE.rating_footer {
+	FONT: 14px Arial, Helvetica, sans-serif; WIDTH: 100%; COLOR: #000000
+}
+TABLE.rating_footer TD {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; =
+PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; =
+BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+TABLE.rating_footer TD.footer_left {
+	PADDING-RIGHT: 32px; TEXT-ALIGN: left
+}
+TABLE.rating_footer TD.footer_right {
+	TEXT-ALIGN: right
+}
+TABLE.rating A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+TABLE.sample {
+	BORDER-RIGHT: #1a5cc8 1px solid; BORDER-TOP: #1a5cc8 1px solid; =
+BORDER-LEFT: #1a5cc8 1px solid; BORDER-BOTTOM: #1a5cc8 1px solid; =
+BORDER-COLLAPSE: collapse
+}
+TABLE.sample TR TD {
+	BORDER-RIGHT: #1a5cc8 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#1a5cc8 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; =
+VERTICAL-ALIGN: top; BORDER-LEFT: #1a5cc8 1px solid; PADDING-TOP: 3px; =
+BORDER-BOTTOM: #1a5cc8 1px solid
+}
+TABLE.sample TR TH {
+	BORDER-RIGHT: #1a5cc8 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#1a5cc8 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; =
+VERTICAL-ALIGN: top; BORDER-LEFT: #1a5cc8 1px solid; PADDING-TOP: 3px; =
+BORDER-BOTTOM: #1a5cc8 1px solid
+}
+TABLE.sample TR TH {
+	COLOR: #1a5cc8
+}
+H2.problem_title {
+	FONT-WEIGHT: normal; FONT-SIZE: 2em; MARGIN: 0px; COLOR: #1a5cc8; =
+TEXT-ALIGN: center
+}
+H3.problem_subtitle {
+	MARGIN: 14px 0px 4px; COLOR: #1a5cc8
+}
+DIV.problem_limits {
+	MARGIN: 0px 0px 14px; LINE-HEIGHT: 1.4em; TEXT-ALIGN: center
+}
+DIV.problem_source {
+	MARGIN: 10px 0px 0px; LINE-HEIGHT: 1.4em
+}
+DIV.problem_links {
+	FONT-SIZE: 1.15em; MARGIN: 14px 0px 0px
+}
+DIV.problem_centered_picture {
+	MARGIN: 12px 0px; TEXT-ALIGN: center
+}
+IMG.problem_laimage {
+	MARGIN: 4px 15px 6px 0px
+}
+IMG.problem_raimage {
+	MARGIN: 4px 0px 6px 15px
+}
+DIV.problem_par {
+	MARGIN: 0px 0px 10px
+}
+DIV.problem_par_pre {
+	MARGIN: 0px 0px 10px
+}
+DIV.problem_par {
+	LINE-HEIGHT: 1.4em
+}
+DIV.problem_par_normal {
+	TEXT-ALIGN: justify
+}
+DIV.problem_par_center {
+	TEXT-ALIGN: center
+}
+DIV.problem_par_right {
+	PADDING-LEFT: 60px; FONT-STYLE: italic; TEXT-ALIGN: right
+}
+DIV.problem_par UL {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 10px
+}
+DIV.problem_par OL {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 10px
+}
+DIV.problem_par TABLE {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; =
+BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; =
+BORDER-COLLAPSE: collapse
+}
+DIV.problem_par TABLE TR TH {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: black =
+1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: black 1px solid
+}
+DIV.problem_par TABLE TR TD {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: black =
+1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: black 1px solid
+}
+DIV.problem_par TABLE PRE {
+	MARGIN: 0px
+}
+TABLE.problemset {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BORDER-LEFT: =
+#999 1px solid; BORDER-BOTTOM: #999 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.problemset TR TH {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 3px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.problemset TR TD {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 3px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.problemset TR TH {
+	COLOR: black; BACKGROUND-COLOR: #a4c6ff; TEXT-ALIGN: center
+}
+TABLE.problemset TR TD {
+	COLOR: black; BACKGROUND-COLOR: #c6c6c6; TEXT-ALIGN: center
+}
+TABLE.problemset TR TD.name {
+	TEXT-ALIGN: left
+}
+TABLE.ranklist {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BORDER-LEFT: =
+#999 1px solid; BORDER-BOTTOM: #999 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.ranklist TR TH {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.ranklist TR TD {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.ranklist TR TH {
+	COLOR: black; BACKGROUND-COLOR: #a4c6ff; TEXT-ALIGN: center
+}
+TABLE.ranklist TR TD {
+	COLOR: black; BACKGROUND-COLOR: #c6c6c6; TEXT-ALIGN: center
+}
+TABLE.ranklist TR TD.name {
+	TEXT-ALIGN: left
+}
+TABLE.ranklist TR TD.first {
+	FONT: bold 1.3em Arial, Helvetica, sans-serif
+}
+TABLE.ranklist TR TD.current {
+	BACKGROUND-COLOR: #d4d4d4
+}
+TABLE.monitor {
+	BORDER-RIGHT: #bbb 1px solid; BORDER-TOP: #bbb 1px solid; BORDER-LEFT: =
+#bbb 1px solid; BORDER-BOTTOM: #bbb 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.monitor TR TD {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #bbb 1px =
+solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; BORDER-LEFT: #bbb 1px =
+solid; PADDING-TOP: 1px; BORDER-BOTTOM: #bbb 1px solid; TEXT-ALIGN: =
+center
+}
+TABLE.monitor TR TD.author {
+	TEXT-ALIGN: left
+}
+TABLE.monitor TR TD .time {
+	FONT-SIZE: 0.63em
+}
+TABLE.monitor TR TD.acc {
+	COLOR: #070
+}
+TABLE.monitor TR TD.rej {
+	COLOR: #b00
+}
+TABLE.stats {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.stats TR TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; =
+VERTICAL-ALIGN: middle; PADDING-TOP: 2px
+}
+TABLE.stats TR TD.name {
+	FONT: 1.13em Arial, Helvetica, sans-serif; WIDTH: 200px; TEXT-ALIGN: =
+left
+}
+TABLE.stats TR TD.value {
+	FONT: 1.19em monospace, "monospace for firefox"; WIDTH: 70px; =
+TEXT-ALIGN: right
+}
+DIV.news_block {
+	MARGIN: 1.2em 0em
+}
+DIV.news_caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.19em; MARGIN-BOTTOM: 0.3em; =
+BORDER-BOTTOM: silver 1px dashed
+}
+
+------=_NextPart_000_00D4_01C95DDB.65C1F200
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://acm.timus.ru/style.css
+
+CODE {
+	FONT-SIZE: 0.81em; FONT-FAMILY: monospace, "monospace for firefox"
+}
+TT {
+	FONT-SIZE: 0.81em; FONT-FAMILY: monospace, "monospace for firefox"
+}
+PRE {
+	FONT-SIZE: 0.81em; FONT-FAMILY: monospace, "monospace for firefox"
+}
+SUP {
+	VERTICAL-ALIGN: baseline; POSITION: relative; TOP: -0.4em
+}
+SUB {
+	VERTICAL-ALIGN: baseline; BOTTOM: -0.4em; POSITION: relative
+}
+PRE.intable {
+	MARGIN: 0px
+}
+TABLE.strict A {
+	COLOR: #000000
+}
+TABLE.strict A:hover {
+	COLOR: #000000
+}
+TABLE.strict A:visited {
+	COLOR: #000000
+}
+DIV#help_text CODE {
+	FONT-SIZE: 0.81em
+}
+DIV#help_text PRE.code {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; =
+PADDING-TOP: 4px; BACKGROUND-COLOR: #f0f0f0
+}
+H1.title {
+	COLOR: #1a5cc8; TEXT-ALIGN: center
+}
+H2.title {
+	COLOR: #1a5cc8; TEXT-ALIGN: center
+}
+H2.subtitle {
+	COLOR: #1a5cc8; TEXT-ALIGN: left
+}
+H3.subtitle {
+	COLOR: #1a5cc8; TEXT-ALIGN: left
+}
+TABLE.status {
+	PADDING-RIGHT: 0px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 0px; =
+PADDING-BOTTOM: 0px; MARGIN: 0px; FONT: 14px Arial, Helvetica, =
+sans-serif; WIDTH: 100%; COLOR: #000000; PADDING-TOP: 0px; =
+BORDER-BOTTOM: #808080 1px solid; BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: =
+center
+}
+TABLE.status TR.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; HEIGHT: 36px; BACKGROUND-COLOR: =
+#eeeeee
+}
+TABLE.status TR.even {
+	HEIGHT: 37px
+}
+TABLE.status TR.odd {
+	HEIGHT: 37px; BACKGROUND-COLOR: #f4f4f4
+}
+TABLE.status TD {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; =
+PADDING-TOP: 2px
+}
+TABLE.status TH {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 2px; =
+PADDING-TOP: 2px
+}
+TABLE.status TD {
+	BORDER-TOP: #dddddd 1px solid
+}
+TABLE.status .id {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 64px
+}
+TABLE.status .date {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 86px
+}
+TABLE.status .coder {
+	BORDER-RIGHT: #dddddd 1px solid
+}
+TABLE.status TD.coder {
+	TEXT-ALIGN: left
+}
+TABLE.status .problem {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 68px
+}
+TABLE.status .language {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 76px
+}
+TABLE.status .result {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_wt {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_ac {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_rj {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 160px
+}
+TABLE.status .verdict_ac {
+	COLOR: #006600
+}
+TABLE.status .verdict_rj {
+	COLOR: #800000
+}
+TABLE.status .verdict_rj A {
+	COLOR: #800000
+}
+TABLE.status .verdict_rj A:hover {
+	COLOR: #800000
+}
+TABLE.status .verdict_rj A:visited {
+	COLOR: #800000
+}
+TABLE.status .test {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 52px
+}
+TABLE.status .runtime {
+	BORDER-RIGHT: #dddddd 1px solid; WIDTH: 68px
+}
+TABLE.status .memory {
+	WIDTH: 76px
+}
+TABLE.status_footer {
+	MARGIN: 10px 0px 0px; FONT: 14px Arial, Helvetica, sans-serif; WIDTH: =
+100%; COLOR: #000000; TEXT-ALIGN: left
+}
+TABLE.status_footer TD.footer_left {
+	PADDING-RIGHT: 32px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; =
+PADDING-TOP: 0px
+}
+TABLE.status_footer TD.footer_right {
+	VERTICAL-ALIGN: top; TEXT-ALIGN: right
+}
+P.status_filter {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: =
+0px; PADDING-BOTTOM: 4px; MARGIN: 0px; FONT: 12px Arial, Helvetica, =
+sans-serif; BORDER-LEFT: 0px; COLOR: #000000; PADDING-TOP: 0px; =
+BORDER-BOTTOM: 0px; TEXT-ALIGN: right
+}
+TABLE.status A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+TABLE.status_footer A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+P.status_filter A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+TABLE.rating {
+	PADDING-RIGHT: 0px; BORDER-TOP: #808080 1px solid; PADDING-LEFT: 0px; =
+MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 0px; FONT: 14px Arial, Helvetica, =
+sans-serif; COLOR: #000000; PADDING-TOP: 0px; BACKGROUND-COLOR: #ffffff; =
+TEXT-ALIGN: center
+}
+TABLE.rating TR.header {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; HEIGHT: 36px; BACKGROUND-COLOR: =
+#eeeeee
+}
+TABLE.rating TR.even {
+	HEIGHT: 37px
+}
+TABLE.rating TR.odd {
+	HEIGHT: 37px
+}
+TABLE.rating TR.odd {
+	BACKGROUND-COLOR: #f4f4f4
+}
+TABLE.rating TH {
+	BORDER-RIGHT: #dddddd 1px solid; PADDING-RIGHT: 6px; PADDING-LEFT: 6px; =
+PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.rating TD {
+	BORDER-RIGHT: #dddddd 1px solid; PADDING-RIGHT: 6px; PADDING-LEFT: 6px; =
+PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+TABLE.rating TD {
+	BORDER-TOP: #dddddd 1px solid
+}
+TABLE.rating .rank {
+	BORDER-LEFT: #dddddd 1px solid; WIDTH: 52px
+}
+TABLE.rating .id {
+	WIDTH: 64px
+}
+TABLE.rating .date {
+	WIDTH: 86px
+}
+TABLE.rating .coder {
+	WIDTH: 248px
+}
+TABLE.rating TD.coder {
+	TEXT-ALIGN: left
+}
+TABLE.rating .language {
+	WIDTH: 76px
+}
+TABLE.rating .runtime {
+	WIDTH: 68px
+}
+TABLE.rating .memory {
+	WIDTH: 76px
+}
+TABLE.rating TD.footer {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: #808080 1px =
+solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 10px
+}
+TABLE.rating_footer {
+	FONT: 14px Arial, Helvetica, sans-serif; WIDTH: 100%; COLOR: #000000
+}
+TABLE.rating_footer TD {
+	BORDER-RIGHT: medium none; PADDING-RIGHT: 0px; BORDER-TOP: medium none; =
+PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: top; =
+BORDER-LEFT: medium none; PADDING-TOP: 0px; BORDER-BOTTOM: medium none
+}
+TABLE.rating_footer TD.footer_left {
+	PADDING-RIGHT: 32px; TEXT-ALIGN: left
+}
+TABLE.rating_footer TD.footer_right {
+	TEXT-ALIGN: right
+}
+TABLE.rating A {
+	COLOR: #0044cc; TEXT-DECORATION: underline
+}
+TABLE.sample {
+	BORDER-RIGHT: #1a5cc8 1px solid; BORDER-TOP: #1a5cc8 1px solid; =
+BORDER-LEFT: #1a5cc8 1px solid; BORDER-BOTTOM: #1a5cc8 1px solid; =
+BORDER-COLLAPSE: collapse
+}
+TABLE.sample TR TD {
+	BORDER-RIGHT: #1a5cc8 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#1a5cc8 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; =
+VERTICAL-ALIGN: top; BORDER-LEFT: #1a5cc8 1px solid; PADDING-TOP: 3px; =
+BORDER-BOTTOM: #1a5cc8 1px solid
+}
+TABLE.sample TR TH {
+	BORDER-RIGHT: #1a5cc8 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: =
+#1a5cc8 1px solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; =
+VERTICAL-ALIGN: top; BORDER-LEFT: #1a5cc8 1px solid; PADDING-TOP: 3px; =
+BORDER-BOTTOM: #1a5cc8 1px solid
+}
+TABLE.sample TR TH {
+	COLOR: #1a5cc8
+}
+H2.problem_title {
+	FONT-WEIGHT: normal; FONT-SIZE: 2em; MARGIN: 0px; COLOR: #1a5cc8; =
+TEXT-ALIGN: center
+}
+H3.problem_subtitle {
+	MARGIN: 14px 0px 4px; COLOR: #1a5cc8
+}
+DIV.problem_limits {
+	MARGIN: 0px 0px 14px; LINE-HEIGHT: 1.4em; TEXT-ALIGN: center
+}
+DIV.problem_source {
+	MARGIN: 10px 0px 0px; LINE-HEIGHT: 1.4em
+}
+DIV.problem_links {
+	FONT-SIZE: 1.15em; MARGIN: 14px 0px 0px
+}
+DIV.problem_centered_picture {
+	MARGIN: 12px 0px; TEXT-ALIGN: center
+}
+IMG.problem_laimage {
+	MARGIN: 4px 15px 6px 0px
+}
+IMG.problem_raimage {
+	MARGIN: 4px 0px 6px 15px
+}
+DIV.problem_par {
+	MARGIN: 0px 0px 10px
+}
+DIV.problem_par_pre {
+	MARGIN: 0px 0px 10px
+}
+DIV.problem_par {
+	LINE-HEIGHT: 1.4em
+}
+DIV.problem_par_normal {
+	TEXT-ALIGN: justify
+}
+DIV.problem_par_center {
+	TEXT-ALIGN: center
+}
+DIV.problem_par_right {
+	PADDING-LEFT: 60px; FONT-STYLE: italic; TEXT-ALIGN: right
+}
+DIV.problem_par UL {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 10px
+}
+DIV.problem_par OL {
+	MARGIN-TOP: 4px; MARGIN-BOTTOM: 10px
+}
+DIV.problem_par TABLE {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; =
+BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; =
+BORDER-COLLAPSE: collapse
+}
+DIV.problem_par TABLE TR TH {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: black =
+1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: black 1px solid
+}
+DIV.problem_par TABLE TR TD {
+	BORDER-RIGHT: black 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: black =
+1px solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; BORDER-LEFT: black =
+1px solid; PADDING-TOP: 4px; BORDER-BOTTOM: black 1px solid
+}
+DIV.problem_par TABLE PRE {
+	MARGIN: 0px
+}
+TABLE.problemset {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BORDER-LEFT: =
+#999 1px solid; BORDER-BOTTOM: #999 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.problemset TR TH {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 3px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.problemset TR TD {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 3px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 3px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.problemset TR TH {
+	COLOR: black; BACKGROUND-COLOR: #a4c6ff; TEXT-ALIGN: center
+}
+TABLE.problemset TR TD {
+	COLOR: black; BACKGROUND-COLOR: #c6c6c6; TEXT-ALIGN: center
+}
+TABLE.problemset TR TD.name {
+	TEXT-ALIGN: left
+}
+TABLE.ranklist {
+	BORDER-RIGHT: #999 1px solid; BORDER-TOP: #999 1px solid; BORDER-LEFT: =
+#999 1px solid; BORDER-BOTTOM: #999 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.ranklist TR TH {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.ranklist TR TD {
+	BORDER-RIGHT: #999 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #999 1px =
+solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 2px; BORDER-LEFT: #999 1px =
+solid; PADDING-TOP: 2px; BORDER-BOTTOM: #999 1px solid
+}
+TABLE.ranklist TR TH {
+	COLOR: black; BACKGROUND-COLOR: #a4c6ff; TEXT-ALIGN: center
+}
+TABLE.ranklist TR TD {
+	COLOR: black; BACKGROUND-COLOR: #c6c6c6; TEXT-ALIGN: center
+}
+TABLE.ranklist TR TD.name {
+	TEXT-ALIGN: left
+}
+TABLE.ranklist TR TD.first {
+	FONT: bold 1.3em Arial, Helvetica, sans-serif
+}
+TABLE.ranklist TR TD.current {
+	BACKGROUND-COLOR: #d4d4d4
+}
+TABLE.monitor {
+	BORDER-RIGHT: #bbb 1px solid; BORDER-TOP: #bbb 1px solid; BORDER-LEFT: =
+#bbb 1px solid; BORDER-BOTTOM: #bbb 1px solid; BORDER-COLLAPSE: collapse
+}
+TABLE.monitor TR TD {
+	BORDER-RIGHT: #bbb 1px solid; PADDING-RIGHT: 4px; BORDER-TOP: #bbb 1px =
+solid; PADDING-LEFT: 4px; PADDING-BOTTOM: 1px; BORDER-LEFT: #bbb 1px =
+solid; PADDING-TOP: 1px; BORDER-BOTTOM: #bbb 1px solid; TEXT-ALIGN: =
+center
+}
+TABLE.monitor TR TD.author {
+	TEXT-ALIGN: left
+}
+TABLE.monitor TR TD .time {
+	FONT-SIZE: 0.63em
+}
+TABLE.monitor TR TD.acc {
+	COLOR: #070
+}
+TABLE.monitor TR TD.rej {
+	COLOR: #b00
+}
+TABLE.stats {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: =
+0px; BORDER-COLLAPSE: collapse; BORDER-RIGHT-WIDTH: 0px
+}
+TABLE.stats TR TD {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; =
+VERTICAL-ALIGN: middle; PADDING-TOP: 2px
+}
+TABLE.stats TR TD.name {
+	FONT: 1.13em Arial, Helvetica, sans-serif; WIDTH: 200px; TEXT-ALIGN: =
+left
+}
+TABLE.stats TR TD.value {
+	FONT: 1.19em monospace, "monospace for firefox"; WIDTH: 70px; =
+TEXT-ALIGN: right
+}
+DIV.news_block {
+	MARGIN: 1.2em 0em
+}
+DIV.news_caption {
+	FONT-WEIGHT: bold; FONT-SIZE: 1.19em; MARGIN-BOTTOM: 0.3em; =
+BORDER-BOTTOM: silver 1px dashed
+}
+
+------=_NextPart_000_00D4_01C95DDB.65C1F200--

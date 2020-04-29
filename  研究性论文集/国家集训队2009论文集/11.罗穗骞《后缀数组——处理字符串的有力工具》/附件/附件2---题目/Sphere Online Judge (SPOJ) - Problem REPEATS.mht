@@ -1,0 +1,684 @@
+From: =?gb2312?B?08kgV2luZG93cyBJbnRlcm5ldCBFeHBsb3JlciA3ILGjtOY=?=
+Subject: Sphere Online Judge (SPOJ) - Problem REPEATS
+Date: Sun, 14 Dec 2008 11:00:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_00BF_01C95DDB.26974A80"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6000.16669
+
+这是 MIME 格式的多方邮件。
+
+------=_NextPart_000_00BF_01C95DDB.26974A80
+Content-Type: text/html;
+	charset="iso-8859-2"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.spoj.pl/problems/REPEATS/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>Sphere Online Judge (SPOJ) - Problem REPEATS</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-2">
+<META=20
+content=3D"programming, language, algorithm, spoj, contest, contester, =
+Java, C#, Pascal, C, C++, python, ruby, caml, ocaml, perl, haskell, =
+lisp, prolog, fortran, assembler, asembler, functional, online, judge, =
+problem, problemset, ACM"=20
+name=3DKeywords><LINK href=3D"/gfx/favicon" type=3Dimage/x-icon=20
+rel=3D"shortcut icon"><LINK title=3D"RSS Feed" href=3D"/rss/" =
+type=3Dapplication/rss+xml=20
+rel=3Dalternate><LINK id=3Dtheme href=3D"http://www.spoj.pl/style.css" =
+type=3Dtext/css=20
+rel=3Dstylesheet>
+<STYLE type=3Dtext/css>.maintable {
+	WIDTH: 755px
+}
+</STYLE>
+
+<SCRIPT language=3Djavascript type=3Dtext/javascript>=0A=
+<!--=0A=
+function UnCryptMailto(s) {=0A=
+	var n=3D0;=0A=
+	var r=3D"";=0A=
+	for(var i=3D0;i<s.length;i++) {		=0A=
+		n=3Ds.charCodeAt(i); =0A=
+		if (n>=3D8364) {n =3D 128;}=0A=
+		r +=3D String.fromCharCode(n+(2));	=0A=
+	}=0A=
+	return r;=0A=
+}=0A=
+function linkTo_UnCryptMailto(s)	{=0A=
+	location.href=3DUnCryptMailto(s);=0A=
+}=0A=
+// -->=0A=
+</SCRIPT>
+
+<META content=3D"MSHTML 6.00.6000.16757" name=3DGENERATOR></HEAD>
+<BODY>
+<CENTER>
+<TABLE class=3Dmaintable id=3Dmaintable cellSpacing=3D0 =
+cellPadding=3D10>
+  <TBODY>
+  <TR>
+    <TD class=3Dheader colSpan=3D2>
+      <TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%" border=3D0>
+        <TBODY>
+        <TR>
+          <TD class=3Dheaderleft>
+          <TD class=3Dheadercenter>
+            <H1><IMG title=3D"Sphere Online Judge"=20
+            style=3D"MARGIN-TOP: -4px; MARGIN-BOTTOM: -4px"=20
+            alt=3D"Sphere Online Judge"=20
+            src=3D"http://www.spoj.pl/gfx/sphere-spoj-small.png" =
+border=3D0></H1></TD>
+          <TD class=3Dheaderright></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD class=3Dmenu vAlign=3Dtop width=3D92>
+      <FORM style=3D"MARGIN-BOTTOM: 18px" name=3Dlogin=20
+      action=3Dhttps://www.spoj.pl/problems/REPEATS/ method=3Dpost>User: =
+<INPUT=20
+      class=3Dform style=3D"WIDTH: 85px" name=3Dlogin_user><BR>Password: =
+<INPUT=20
+      class=3Dform style=3D"WIDTH: 85px" type=3Dpassword =
+name=3Dpassword><BR><INPUT class=3Dbutton style=3D"WIDTH: 85px" =
+type=3Dsubmit value=3D"Log In" name=3Dsubmit>=20
+      </FORM>
+      <DIV class=3Dmenucmd><A=20
+      href=3D"http://www.spoj.pl/register">register</A><BR><BR><A=20
+      href=3D"http://www.spoj.pl/status">status</A><BR><A=20
+      href=3D"http://www.spoj.pl/submit">submit</A><BR><A=20
+      =
+href=3D"http://www.spoj.pl/problems/classical/sort=3D0,start=3D250">probl=
+ems</A><BR><BR><A=20
+      href=3D"http://www.spoj.pl/">news</A><BR><A=20
+      href=3D"http://www.spoj.pl/contests">contests</A><BR><A=20
+      href=3D"http://www.spoj.pl/ranks/">ranks</A><BR><BR><A=20
+      href=3D"http://www.spoj.pl/forum">forum</A><BR><A=20
+      href=3D"http://www.spoj.pl/info">info</A><BR><A=20
+      href=3D"http://www.spoj.pl/help">help</A><BR>
+      <HR>
+      </DIV>Server time:<BR>2008-12-14<BR>04 : 01 : 44<A=20
+      =
+href=3D"http://www.spoj.pl/problems/classical/sort=3D0,start=3D250"></A><=
+BR><BR>
+      <FORM class=3Dform style=3D"WIDTH: 90px" action=3D/search/ =
+method=3Dget><INPUT=20
+      class=3Dform style=3D"WIDTH: 85px" maxLength=3D255 =
+name=3Dquery><BR><INPUT class=3Dform title=3D"Search site" =
+style=3D"WIDTH: 85px" type=3Dsubmit value=3DSearch><BR>&nbsp;<A=20
+      title=3D"More search options"=20
+      =
+href=3D"http://www.spoj.pl/search/problems=3Don,users=3Don,contests=3Don"=
+><SMALL>advanced...</SMALL></A>=20
+      </FORM></TD>
+    <TD class=3Dcontent width=3D"99%">
+      <TABLE class=3Dproblems width=3D"100%">
+        <TBODY>
+        <TR class=3Dnavigation>
+          <TD><A =
+href=3D"http://www.spoj.pl/submit/REPEATS/">Submit</A></TD>
+          <TD><A href=3D"http://www.spoj.pl/status/REPEATS/">All=20
+          submissions</A></TD>
+          <TD><A href=3D"http://www.spoj.pl/ranks/REPEATS/">Best=20
+solutions</A></TD>
+          <TD><A =
+href=3D"http://www.spoj.pl/problems/REPEATS.ps">PS</A></TD>
+          <TD><A =
+href=3D"http://www.spoj.pl/problems/REPEATS.pdf">PDF</A></TD>
+          <TD><A=20
+            =
+href=3D"http://www.spoj.pl/problems/classical/sort=3D0,start=3D250">Back =
+
+            to list</A></TD></TR></TBODY></TABLE>
+      <DIV class=3Dprob>
+      <H2>SPOJ Problem Set </H2>
+      <H1>687. Repeats</H1>
+      <H2>Problem code: REPEATS</H2>
+      <P align=3Djustify>
+      <P>A string s is called an (k,l)-repeat if s is obtained by =
+concatenating=20
+      k&gt;=3D1 times some seed string t with length l&gt;=3D1. For =
+example, the=20
+      string=20
+      <P>s =3D abaabaabaaba=20
+      <P>is a (4,3)-repeat with t =3D aba as its seed string. That is, =
+the seed=20
+      string t is 3 characters long, and the whole string s is obtained =
+by=20
+      repeating t 4 times.=20
+      <P>Write a program for the following task: Your program is given a =
+long=20
+      string u consisting of characters &#8216;a&#8217; and/or =
+&#8216;b&#8217; as input. Your program=20
+      must find some (k,l)-repeat that occurs as substring within u with =
+k as=20
+      large as possible. For example, the input string=20
+      <P>u =3D babb<U>abaabaabaaba</U>b=20
+      <P>contains the underlined (4,3)-repeat s starting at position 5. =
+Since u=20
+      contains no other contiguous substring with more than 4 repeats, =
+your=20
+      program must output the maximum k.=20
+      <P>
+      <H3>Input</H3>
+      <P>In the first line of the input contains H- the number of test =
+cases (H=20
+      &lt;=3D 20). H test cases follow. First line of each test cases is =
+n -=20
+      length of the input string (n &lt;=3D 50000), The next n lines =
+contain the=20
+      input string, one character (either &#8216;a&#8217; or =
+&#8216;b&#8217;) per line, in order.=20
+      <H3>Output</H3>
+      <P>For each test cases, you should write exactly one interger k in =
+a line=20
+      - the repeat count that is maximized.=20
+      <H3>Example</H3><PRE><B>Input:</B>
+1
+17
+b
+a
+b
+b
+a
+b
+a
+a
+b
+a
+a
+b
+a
+a
+b
+a
+b
+
+<B>Output:</B>
+4
+</PRE>since a (4, 3)-repeat is found starting at the 5th character of =
+the=20
+      input string.=20
+      <HR>
+
+      <TABLE cellSpacing=3D0 cellPadding=3D0 align=3Dleft border=3D0>
+        <TBODY>
+        <TR>
+          <TD width=3D130>Added by:</TD>
+          <TD><A =
+href=3D"http://www.spoj.pl/search/'Hoang%20Hong%20Quan'">Hoang=20
+            Hong Quan</A></TD></TR>
+        <TR>
+          <TD>Date:</TD>
+          <TD>2006-01-05</TD></TR>
+        <TR>
+          <TD>Time limit:</TD>
+          <TD>18s </TD></TR>
+        <TR>
+          <TD>Source limit:</TD>
+          <TD>50000B</TD></TR>
+        <TR>
+          <TD>Languages:</TD>
+          <TD>All </TD></TR>
+        <TR>
+          <TD>Resource:</TD>
+          <TD>BOI 2004</TD></TR></TBODY></TABLE></DIV></TD></TR>
+  <TR>
+    <TD class=3Dfooter colSpan=3D2>
+      <SCRIPT language=3Djavascript type=3Dtext/javascript>=0A=
+<!--=0A=
+function swapSheet(sheet, caller) {=0A=
+    document.getElementById('theme').href=3Dsheet;=0A=
+    document.cookie=3D"css_0=3D"+sheet+"; path=3D/;";=0A=
+    caller.href=3D"#bottom";=0A=
+}=0A=
+=0A=
+function setWidth(w, caller) {=0A=
+    document.getElementById('maintable').style.width=3Dw;=0A=
+    document.cookie=3D"res=3D"+w+"; path=3D/;";=0A=
+    caller.href=3D"#bottom";=0A=
+}=0A=
+//-->=0A=
+=0A=
+</SCRIPT>
+
+      <TABLE width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD align=3Dmiddle>page size: <A onclick=3D"setWidth('755px', =
+this)"=20
+            href=3D"http://www.spoj.pl/?rsl=3D755px">800x600</A> <A=20
+            onclick=3D"setWidth('980px', this)"=20
+            href=3D"http://www.spoj.pl/?rsl=3D980px">1024x768</A> <A=20
+            onclick=3D"setWidth('100%', this)"=20
+            href=3D"http://www.spoj.pl/?rsl=3D100%">Full</A> =
+&nbsp;&nbsp; theme: <A=20
+            onclick=3D"swapSheet('/themes/skin1.css', this)"=20
+            =
+href=3D"http://www.spoj.pl/?css=3D/themes/skin1.css">olive</A> <A=20
+            onclick=3D"swapSheet('/themes/skin2.css', this)"=20
+            =
+href=3D"http://www.spoj.pl/?css=3D/themes/skin2.css">banana</A> <A=20
+            onclick=3D"swapSheet('/themes/skin3.css', this)"=20
+            =
+href=3D"http://www.spoj.pl/?css=3D/themes/skin3.css">plum</A>=20
+        </TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></CENTER>
+<DIV style=3D"FONT-SIZE: 10px">
+<CENTER>SPOJ System &copy; 2008 <A =
+href=3D"http://sphere-research.com/">Sphere Research=20
+Labs</A>. All Rights Reserved.</CENTER></DIV></BODY></HTML>
+
+------=_NextPart_000_00BF_01C95DDB.26974A80
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://www.spoj.pl/gfx/sphere-spoj-small.png
+
+iVBORw0KGgoAAAANSUhEUgAAAVkAAAAsCAIAAABACFxKAAAACXBIWXMAAC4jAAAuIwF4pT92AAAa
+pUlEQVR4nO2dd0BTV9vATzaBkBAggbBHmILIEJyAow7co6LWV1u1bqXu1bpqte5Ztb62Wle1iquK
+1okoDlCULXuvMAMJZOf744ZruLkJCSLa97u/v27Ovffcc8947nOe5zknOBxuE8DAwPh/D/5TFwAD
+A+OzAJMFGBgYAGCyAAMDAwKTBRgYGABgsgADAwOC+IH3U6kEFxdTKyuqtY0xHoerqmqpqmopyG9q
+apJ2SvkwMDC6hg7KAgaDPGasY8QI+0GDbYyNkZlIpYr4+Krbt0qiowsryps/uJAYGBgfHZyh8QVG
+RoS58z2Xr/C1sDBq9+KWFtmxI5l7dqfW10s6WEAMDIwuwTBZEBzCOn0mzN6BZtAz6uvFC+c/u36t
+yLCi6Q0OB76MdODYGBXkC29cK/tIT/l/Tq8+FiG9LARNsgvni4VC2acuzr8MTy962ACWoEl29Upp
+s1D+qYuDjgFzhK+/cdu7vxeFQjD0GUwm5dyf4Tt/Ttn641uFQmno7e3i7GJy4HAAdPz4EY/Px0wV
+nc/e/f7OLjQAQF2t5OqVUsRZ/wBmYBCzslJ0J6ZCJuv8Ju5EzC3IESNscDhwO6aiplrcNQ/9eZdf
+SC8LAACFQvj9RH7XPNRQ9JUFi5d4/7wzWDP95Qve49iKvLymxkYJzZRkY2McHMwaOMiGSiUCAPLy
+Gs3NKUwmBYfDrV7rx2IbLV74vDOLDwAAgEDAqx3jOj1/DKBWsQQisoatrY2u3+pPIuEBAOtWJ5/8
+raCrC2cIR48HhYaxAQDjJ9iNG/20ax5KIqkqjUz+fD13esmC4RF2P20PQiTGP63atPH1s3geAIBC
+IXh4MkxMiHdiSnfvTDUzI0+e4kIi4Q8dzNj2c1DUdz7QLTNneWRn8Q8dzOjcd8D4tNjaUSFBAABw
+dDT5tIVpF2dn1QzX0flzL2oX074scHSknfwjTP3bCwDYsT15y+Y30PHYcY579/WysqYCAKRSxek/
+clatSDh29B10Vt5WY/xpe1BSUm3806rOKT7GZ0B+nqCxUUqnkwAAr1/XferitENKcoO9gzEAIOlV
+/acuy+dF+7Jg05YAU1OSesqD+2Vbf3wLHXt6Mn4/FQobEUgk/KzZHv7+FiMj7vL5EgCAVKpQv5dA
+wO/Y2TO0362PYTjA+CTU10v79brv5UWvqBDlZDd96uK0w/w5iQFB5kAJXr/63MVWF9PO7CWop+WX
+k5zVUxQK5cIFz+CRPGiwraY1MSDQcsvWQOhYKlMgzvoHWEZOdgYY/0NU88Rxj6s/f0EAAJBKlS+f
+1758UfuZ2zi7nnb0gvkLvHC4NraitNT6kmIh/BP6+Gsyc5b7mdM5rxJrEHoBxKLF3f48j7Sm+vgy
+vox0EAqkRw7nCgSynsHmkVMc3D1MlUpQWCD860Jx/NMafV6JTidNneYYNoDNZJIqK0W3b1Vc/qtE
+Lm+n4Xv3tRw12sbdw5RGI9XViVNT+NGXSrKz0Ds3mYxfuMTN0pJy725l7EPeoC+s/jPDydbWuLBA
+cOhAdkoyX/MWN3fTceNt/QPNzc3JTU3SnOymG9fLn8fr9Uba8O5GHznKxq8H08KS0tIiKy9veRpX
+ff1amTavFZ1OWrCIa0Ij/n29LOFlnb2D8bTpTv4BTBqNWFLcfP1aaczNio6VZOIke/8AZn2d5Ogv
+uZoex2/nuTo5mbxKqLt6pZROJ0VOcQgLZ1myKNU88f17VRfOF4nFKJ1EnYBA5pixtl7dGHQ6qaFB
+kp7GvxpdmpaKUs/t0s2HMSnSXqkEFy8UZ2Y0Is727Wc5LIIjEslPnigoL29RP2VkhJ+30I3FoqSl
+Nvx5rlhb/t39zCZOsvf0opuaEosKhdGXSu/drdSnYMEh5qFhbE8vOtuKUlsrKcgXSKWqTiuRKE7+
+ll9XizLWTEyI4yfahYaxODZUpRJUlLfEPuJdjS5taTHYc6lLFpDJ+OER9ojE6uo2FXTtauGyFb4e
+HgzEZXg8bsXK7pMnPUSVBX49zB0cacVFAvXE6V87/WeGMwAgLY0/dBhn0mQH+FRwiMWkyQ7nzxat
+XPZGobPbeHej7z8cYGtrrHoQAEOHcaZ/7TR10nNtvkY6nXTwSMDQYRz1xAEDreYv5B7cl7175zvN
+W9w9TFet8QIABAYxfX0Za9Z74/E4AICPL0OhAHNnJ7atCvDDRp/Zc12IxPdaWN9+rK9nuly/Wvrd
+4iSRqJ2RoImxCWHH7h7jJ9hBz4UZP8F+7Xrv1SuSb8egjOqAIGbUMg8AgI0t1cKy5OAvATSaavbn
+H8AcPdY25lb5vNmJcBfUn207ukMTyVev6mIf8tRPmZoSt2z1BQCMGGmTkcE/fa6Xg5p9cfAQ65mz
+nSMnPKusFKHmTDUm7N7XY/yENv0wLJw9dz73xK95mzemKQ0s7Nz5rl9GOgAAjKiENSuTEWeXrvDo
+248FAGjkSw8dyFE/5eNrtnqtFwBALldeOF+M+txNW3xmz3WFfS49/JljxtmdOJ6nu0gkEu7QkcAx
+4+x0XNMslB39JReRGBbO2ncogMOhqieOGmMbtdT925mJKckNup+LQNccISycw2CQEYm2dm2srwKB
+LLz/zYMH0hsakEJrxEj73n3YdFNkDgAAHA43erSDZiJ0sOQ7d3VBADN1muPa7711FBgAcOhoICwI
+YAICzTdv9UW9nkLBX77WFxYEUqkCDpEkkfDLV3kuXeGheRe+tdo4HOrqdd7qAxKn4dPcfyhg3kIu
+JAgUCmVtjRieYY0ZZ3fsRE/db6QJmYy/cKnPxC/tEYIAgsU2+u/J4OERHM1TcNlcXGiHjwTCggAm
+YoTN/IVuhpZHPWfN14cLSTHCnzgV7KDhaHD3oO896I+aLYGAO3+xNywI5HJlXZ0EPjV3AXfjZh+D
+i9paHs2iAgDwral4Dec0fL02v/V3yz3mLuBqnp09x9XTi66jSMtXecKCQCyWowbp1tQgQyHCB7JP
+n+8NCwI+XyoWq3QBB0eTi9F9HByRA0E3umSBXw9zzUQXF1O2VRs51NgoXbs6ket8cfq02KtXCpub
+VSoiHo+7/zBizTo/9Mz9UDJvfS4TAPAqsW7S+Pju3rcnT4yvqFApI1/PdKbRdOky1tbUpibp5g1p
+/ULuT/nyWdY7lRI4dryttTVK0PTS5R6+3c0AAM3NsqVLkjxcbnm7xQT5/RNzqxy64LtlHo5OWuuU
+bWVEIOCahbLtWzPmz0k880fB1eg2cTjDhnOgr5BCoTywL6ube4yP520vbszB/dmQRBg6jDNilI2O
+N9Jk2UqPnsEW0PHV6NJRw+NcHf/28YzZ8H2qRKIAABAIuB27/ajGWqPCPL3oxiZEXpVoWVRSn+B7
+M2e8rKxU1fDsOS5GRh/FB25mRuZyTcVi+a4dmf17358w5umrRJX1Liyc7eWNMlrmzHPt1dsSACAW
+y9etTnZ3udnNPaa79+3Ll0pUpZ3r2s0HqZN+EhwcjaOWukPHxUXCObMSgvz+mT71RXZWIwBAc80O
+jLOLycLFKvm7eUOam9NNb7eYIQMflRSrFvL8eiT3iwGPLl0sUb+LSiXs2e8PRSu8fVM/MPShp+st
+ruPNaVOeV1WKAABmZuSt27ob9Aq6Wp3DQRkDZDJhyRKUj3NLizz6cuG0qbFO9hemT4u9c7tE8xp1
+rG10Ca1LF4vHjXryJK66mid+HFs9a0YCNHJoNNK4CbpUKYFAOm3y82NHcvPyBLGPeNOmvJDJFAAA
+CoUQPpCNuJhKJUz/RmXFXL8m5cL5YmiWVVbWMmdmYm5uEwCATMZPikRRUmAkEsWsrxMO7s++dqVs
+1XKkcj53vit0cOaPwp9/ymxokAIAGhul27dmXL+qCpf+apqjjvwR0Omk2d+q8rxwvmjB3FevEuua
+hfLaGsl/j+XNmZkAnWKxjcaOs9WRT0VFy/jRT/88V1yQL7x9qyJqYRJ8Y0CgVjH9gUgkirmzEvfu
+ysrNETyLr/kq8rlQIAMA4PG4L4ZYIy4mEHCz5rhAx9u2Zpz8rQCyg1TzxIvnv377ph66ZvJUXa3T
+ZUyd5mhkRAAANAtlUyc9//t6eVlZy727lWNGPEl+q8t5GRBoDumML57VHDuSC03QUlP4O3/OhC4I
+7GmuaRkZN8HOxoYKAKipFk8cGw8ZPmQy5YN7VVGLXkPXDBxsxbai6P8KBssCAMDiqG6jx2htAKFQ
+Fn25cMK4BwPDbyW/rdV2mY12WfD6Vd2yqDfqZt43SfXJb1WTn4GDrXSUedaMhISX731FpSXN8I0c
+Gyri4r79LZlMMgCgtLT5rwttrEFyufLyXypxplvBO7AvK/YRD/UUi00J7qX6gO/fk4U4Cz/R3dNU
+R/4IwgawTGhEAIBMpti7G5nnP3cqMzNU/SY4xEJbJi0t8oljn+blvbfXxD2uhmd5qApUp7D8uzf/
+3HlvSGtslD55Ug0da/baoJ7m0HSvvl5ySiOWEa49N3cDau/j0T+UBR3ExFSoV2xDgzRywrPSUq2r
+dWGFCO6oEJBCAQCwt0cZKSNGqnTJP04WIIy1j2OrIT2aQMC5uRlQObr0bdTpKACASMSfOh22fVvy
+4YPpOsyVL19UD/3izqXoQf1DkSIfqFkHNMnLFWj6e+Ie8/wDmAAAhKUEgaYELS9rCQwCAAAOB9nF
+YU27vk4ycRJSutnZqdpAc4qrzq9HtFqGgoLMoTrk86Wh4UitxKq191tbUykUfLu2dFVhHFSFSU9r
+hNVIde7drfLyZgAAnJy0FrtZKMvPEyISK8pbzMzIAACWIR8Tg9BsHV6VymTIZiNbJ6RVjNbWiseO
+RyqDTq3hg3AzfVpgK9Wj+8g4Oj5fyqsSaSsnv1UEW7DaVDucIcKdARHYU6W7mdJJmsa1lmbVqHR0
+MtHT+wZ0y4LycmR3gaFQCJs2B8ye7XHmdM7VK4Xp6egWy6Ym6Tdfx6WkjdecL1VUGLavQTVPZTux
+sTHsqwW7DyAVTh02W1X7vt3N4NVNmliyUMyfMArthmxWa/4MBklH/gQCzsKCgtrkmsAGodIS9Aqs
+ajXIO7kYFmPLb1BVFIVs8PKzDtPUpPqmkSlIFdW6VXZzuaY6as/CUlfrdA1kMh5uax4P3SGijbQ0
+lXyMGME55sNIT+MDAGg04qIolRHhXSbS8UmlEhgMld13zjxXHZlbWnbSHAG22KkjFsvlctUXzM7e
+ZO36Hgmvx756M3bDRn9vbzOUTMqbz51F+kKgdP1LCQAQCFSdhtR5qzuoVL06/dMnHYwC0GG9Uyc7
+q7GqSt8OxGr9fmpzkcIVBS0P+/eiw96mzssXWuehXYaFBRlWog117D96wIPCTIyNibf+Cf3zUp8T
+J4Pjng+CrDYtLfJfjyKHj579SiSSQ1YVPdFV3elpKBmF9rvp4mL658WB6oleXmZeXmar1/q9eM5b
+tTLh9as2gyc1BSWfNLTMdcBq1aDKy/T6fuoDPGwex/K+X5OCek2LSF5W2sEnCgWqbsGrEk0Yg74k
+TqFUFuQL9XeSV7Ua/LXN6mFlp7BAq1r3rwDeJi/pdR1s2kQglihQJ0ofjrYJMir19RKFQgndQmcg
+PbW6sbM39mw1GVAohPAB7+eSIpF8/ZrkrHfIgDeh4L2BYOWyNy+eoUvDykqRQGDAThO6ZMHDB+UC
+gRThhaZQCH/fKE5Lq/fxYWre0qs3+8GjiFEj7j6Je28iqqxEaa2bN7RGbqHCbbWCdKIsgCerTCY5
+N1eg++IOAKvrFpaU4uJmyOH3gRQXqSrTxRV9RxlolwEAQGFB579RV1LROmmytKR8jNZBhd+oEkDm
+5gZMPUQiRX2dxMKSAgxfqTlvgStkwD50ILtPX0tPTzrFCF9YKHybVL9nVxaqQBeLFbW1YgsLCgBA
+oQCdVTm69G2RSH7vLnKbIAoFr1SCtasStC0uIpHwS5e1iQDRdBmkp9fn5iJnQTD9QllObdeTksn4
+ocNVBsj8vE7rFm+SVGaObj4MVy1D60N42+pMIhBwsOH3AyksVHUOJ2eTwCCkOKbTSaPHqh6UoRFg
+++/ides6QgdHE78eKNPPj0F162wfYXklEHCzvnXRcSPcLkOHI6O8+vS11BEE0buPJXRw6WLJyGFx
+XKebznZ/9+/1YPGCJB2aXUqr02GkgcEpOmhn7n38GDICFzIsPXxYsW9Pmra7TEzaqBsjRiLtnL8e
+RQnshbGxoV6+1lddHGze6gOZuOVy5Zk/CnWXWX+exPGgODYCAbd5q4+xCXIaxmCQBg+x6vD+KNU8
+MbziYNkqD1s7pAeETMaHD2QzDNEqnzyuFghU367tO/0s1YzPFAp+194ekB4nlSouX2wnxOMz51Vi
+HeyK27TFR7OWaDTi4CFWnbs7CKx2hQ1gc7mqzwORiDvya5DuGOErl1UxZv1DWUOGvnechYWzfj8d
+omM3sIZWk+3F6D6HjwVu+cl3xSrPJd+5f/Ufx+AQc80+CXG9dS+/sAHsUWNQxIGnF93H17AorHbM
+M3FxlbduFqsPZth0t2Vzkr2DyaRIFGH58GE5fNynL3vQ4DZlzcxs+ONUtu7n2toa33sUHn2ptKZa
+HBrOgp1//9yu6ER1USRSHD2cs35DNwDAoC+s7z4YcONaaWZmo0IBOByjfqGs0DA2lUqInBAf97i6
+Y4/YtycrpLcFHo/jck3vPRrw15/FGRmN/AYJ28ooqKf5F0OtmUzy9q0ZB/e3UyEwAoHs+NG8ZSs9
+AQC+3c3u3A+7eL64okLk6kobMIjt4amaeR45lKOnY+KzRS5XHtibvWtvDwBArz6W92MHRF8qefeu
+USxWcDjUPn0tBwxkG5sQv52ZcPNGebu56cmliyUrVntSKAQSCX/lRr9Lf5WIWuSjx9lyuaYAANgo
+gHZj8brvvU1oRAIBd+TXoLOnC8vKWwIDmSNH2xIIOB03njieFxjEpFAIHA51wkTk8h8+X3rqt/xd
+O94hFtddu1K6cLGbm7spHo87/lvwzTFlCS/rCgoEZmZkrhtt6DCOpxc9J6cptPcD/d+9fVPtD+tf
+DxpsCzvkYAknkym/mRH3Jql2848BZDUv1I3rRXt3q1QGNzf6yVNh6rWgVCrXrk7UvVy0IF/g7EKj
+0UgzvmmztJlXJdq6JV2/99KXI4dzAoLMoeh9Vy5t6QpPzWukH7C49Ulc9e6d76CFTEwmee4CLkr+
+aMu3dLBvT1YPfyYUc2VrawzJBXWuXSlFXVL1r+Ps6cLgEHMoiNvO3hhaWIVAZvhKKh1UVYnOnSma
+OdsFAMBiGy1Y9H51xqnf8yOnOGrzPTU1yX76MX3bDj8AgAmNqN7QfL405mb5lK/Qo0ufPa15k1QP
+hVprwmCQopZ5mNCIP6xLVU8XixXzvk28eLkvpBiOHG07cjQyzFRuYL9tX7/KyuIvnB+vbLV0Q7Lg
+m5nu4eEcHA4cPJDu4XZ5wbz4LZuTohY/Dw+9NSXykVSqwOHAlK9cH8RG2Nm3mXf9vC1Z0waBIDGh
+7vu1KfC6BojHsbwxI58U5KPMoJqFMkhqSiQKzYid5taorMZGFCecQgFmzXi5aUNqrcbaDwBATk7T
+5g1pL54hfYoCgQwyl4hEcll7I3nf7qyZM15CEc0IeFWiY7/knj1dqDsHBDKZcsa0Fzu2Z2q+UVWl
+aM3K5AVzX6FKW3gtM+pGxnAi6v/cwIEAQjTTNHy2uRnpUZNIFJDRVC5Xapq14Wdp21t5ycKk1Sve
+wssl1CkqFO7Ynnn/nl4rgvVn0w+pp37PV/8OSySKXw7l/LAuFXp3gUCK6vc5+VvBsqgkhK83NaVh
+zIi4zNYYAc3XPHo8CBIEz+NrBoU9HDoodsyIuMkT46MWJcEdb/YcV0sWMlIgI71x+JDH16+Waq7H
+l0gU9/6pXLoE3fmiDX33RN+w0X/1Wj8AQFxcZSNfMnKUAwAgP7/xwvn8Fy942dn8+joxAIBhRnZ1
+offqw/5qGpfLRYbuRl8umPGfx9r8Z7v29pg23QkA8NeF4qhFSaamxNBwtp09tb5OmphQiyoFYFxc
+TVhso9Li5jINLwOZjIcmTmmpfB2WfCIRFxhk7uZOo9NJTU2yqkpRakpDRYVWtz/XjWZhQSkuEuq4
+BoGXN727nxmTSZZKFTyeKDO98QPnO2QyvmewubOLCZ1OqquTZGc1vX1T3+6ablNTUk5Ok+ZieBMT
+onc3ulgsT03ha7aRuTnZ3dO0oV6qGfoCAGBbUVxcabU1EtTtTOwdjG3tqOVlLfBsHIZIxPn4MggE
+XEZ6ow7PPIGA8w9geniaMhgkoVDOqxKlpvK1RVvp5ujxICiK8fjR3I0/aLV52dpS+4WyLCzIVVXi
+x7E8aMdka2sjB0fjkuJmHY1OpRL6h7IcHI2lUmVmBh+KiMfjgX8AUypVpqU2qDeQb3fG3YcDAABC
+gSwk6G5tTZtGMTLCp74bDhmApk99oW0fBHNzckhvCxsbKpmMr62VFBUJU5IbWjSEcrvoKwtwOLBs
+he/GTf6IjQ/158R/s1Yuf6ljNCJkQceegoGhmzPnew0eYg0A2PZjOmKHgq5n0mQHKKQy+W3DsMGx
+iLNUY0JmTgSkiQ8bHItYsNDp6DuwlUqwZ1fqhHEPamsNC7EEAIhE8kULnkUtft4pDnYMjA5jZ28c
+0ltlh9Zfoft4wJFjXt70iJFtnJHmFuT9BwMgQSAUyDLSO7KJk0EYFqZ6726Zn8+V5St85y3w0ifE
+VS5XnDub99PWt6Ul/+4YOIx/OzfvhHLdTGk0IuQhFgikd+90sqGhAyS9rq/miVhsIzIZ/9upkJLi
+5tzcJqlUweFQXbk0KApboVCuWPamA5tNGYrBIev19ZLv178+ejRz6lfcYcPsegZbos4aUlPrYm6W
+XLyQn5X10eUZBka7+Pgy1J38B/Zmo9qSu5imJtnUyOcXLvWBYhbtHYyh/dphamvEu3a8u3alK/4Z
+0OD/VkXAYhl5eZlZWVM5HGMcHvCqWqoqW7Ky+WXaF2xrI3KKw7rvvaUyxZ6d73TsLYmB0QG27ege
+McJGJldkZzWdP1vUiSEJH46REX7seLthERwrKyMWm0Ik4EtKmouKhMlvGs6dLeyy/1/8UFmAgYHx
+v8Hn++9uGBgYXQkmCzAwMADAZAEGBgYEJgswMDAAwGQBBgYGxP8B4K+gm3cW3S8AAAAASUVORK5C
+YII=
+
+------=_NextPart_000_00BF_01C95DDB.26974A80
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.spoj.pl/style.css
+
+BODY {
+	FONT-SIZE: 13px; BACKGROUND: #eeeeee; COLOR: #000020; FONT-FAMILY: =
+Verdana, Arial, Helvetica, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 17px
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+TD {
+	FONT-SIZE: 13px
+}
+UL {
+	FONT-SIZE: 13px
+}
+P {
+	FONT-SIZE: 13px
+}
+TH {
+	FONT-SIZE: 13px
+}
+SMALL {
+	FONT-SIZE: 12px
+}
+A {
+	COLOR: #0000a0; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #b01010
+}
+A:active {
+	COLOR: #b01010
+}
+.status_sm {
+	FONT-SIZE: 11px
+}
+.kol {
+	BACKGROUND-COLOR: #f09a24
+}
+.kol0 {
+	BACKGROUND-COLOR: #c0c0c0
+}
+.kol1 {
+	BACKGROUND-COLOR: #bae0a0
+}
+.kol2 {
+	BACKGROUND-COLOR: #88de5f
+}
+.kol3 {
+	BACKGROUND-COLOR: #00c030
+}
+.row {
+	BACKGROUND-COLOR: #d0d0d0
+}
+.headerrow {
+	COLOR: #ffffdd; BACKGROUND-COLOR: #000080
+}
+.headerrow A {
+	COLOR: #ddddff
+}
+.headerrow A:active {
+	COLOR: #ddddff
+}
+.headerrow A:hover {
+	COLOR: #ffffff
+}
+.headerrowleft {
+	BACKGROUND-POSITION: left top; BACKGROUND-IMAGE: url(/gfx/sulcorner); =
+BACKGROUND-REPEAT: no-repeat
+}
+.headerrowright {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/gfx/surcorner); =
+BACKGROUND-REPEAT: no-repeat
+}
+.problemrow {
+	BACKGROUND-COLOR: #d0d0d0
+}
+.lightrow {
+	BACKGROUND-COLOR: #e0e0e0
+}
+.send {
+	FONT-SIZE: 13px; VERTICAL-ALIGN: top; TEXT-ALIGN: center
+}
+.form {
+	FONT-SIZE: 12px
+}
+.formerror {
+	FONT-SIZE: 13px; COLOR: red
+}
+.button {
+	FONT-SIZE: 12px
+}
+.maintable {
+	BORDER-RIGHT: #000000 0px; BORDER-TOP: #000000 0px; BORDER-LEFT: =
+#000000 0px; COLOR: #000020; BORDER-BOTTOM: #000000 0px
+}
+.header {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: =
+0px; PADDING-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-TOP: 0px; =
+BORDER-BOTTOM: 0px
+}
+.headerleft {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BACKGROUND-IMAGE: =
+url(/gfx/ulcorner); BORDER-LEFT: 0px; WIDTH: 32px; BORDER-BOTTOM: 0px; =
+TEXT-ALIGN: left
+}
+.headerright {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BACKGROUND-IMAGE: =
+url(/gfx/urcorner); BORDER-LEFT: 0px; WIDTH: 32px; BORDER-BOTTOM: 0px; =
+TEXT-ALIGN: right
+}
+.headercenter {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BACKGROUND: #000080; =
+PADDING-BOTTOM: 8px; BORDER-LEFT: 0px; PADDING-TOP: 8px; BORDER-BOTTOM: =
+0px; TEXT-ALIGN: center
+}
+.header H1 {
+	MARGIN-TOP: 0px; FONT-WEIGHT: normal; FONT-SIZE: 26px; MARGIN-BOTTOM: =
+0px; COLOR: #ffffff; TEXT-ALIGN: center
+}
+.footer {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 5px; BORDER-TOP: 0px; PADDING-LEFT: =
+5px; FONT-SIZE: 13px; PADDING-BOTTOM: 5px; BORDER-LEFT: 0px; =
+PADDING-TOP: 6px; BORDER-BOTTOM: #6060a0 1px solid; TEXT-ALIGN: center
+}
+.footer IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; VERTICAL-ALIGN: text-bottom; =
+BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+.menu {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 10px; BORDER-TOP: 0px; PADDING-LEFT: =
+12px; FONT-WEIGHT: normal; FONT-SIZE: 12px; VERTICAL-ALIGN: top; =
+BORDER-LEFT: 0px; BORDER-BOTTOM: 0px; BACKGROUND-COLOR: #e8edd0
+}
+.menu HR {
+	MARGIN-TOP: 5px; MARGIN-BOTTOM: 5px; WIDTH: 88px; TEXT-ALIGN: left
+}
+.menucmd {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px
+}
+.submenucmd {
+	MARGIN-TOP: 3px; PADDING-LEFT: 5px; FONT-SIZE: 12px; MARGIN-BOTTOM: =
+3px; MARGIN-LEFT: 5px; BORDER-LEFT: #c3c6f8 1px solid
+}
+.content {
+	BORDER-RIGHT: #e8edd0 1px solid; BORDER-TOP: 0px; FONT-SIZE: 13px; =
+VERTICAL-ALIGN: top; HEIGHT: 350px; BACKGROUND-COLOR: #f6f9e0; =
+TEXT-ALIGN: center
+}
+.navigation {
+	FONT-SIZE: 13px; MARGIN-BOTTOM: 10px; VERTICAL-ALIGN: top; COLOR: =
+#a0a0a0; BACKGROUND-COLOR: #e8edd0
+}
+.navigationcenter {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #603000; TEXT-ALIGN: center
+}
+.navigationcenter A {
+	FONT-WEIGHT: normal
+}
+.userdetails {
+	FONT-SIZE: 13px; VERTICAL-ALIGN: top; TEXT-ALIGN: left
+}
+.accountedit {
+	FONT-SIZE: 14px; TEXT-ALIGN: left
+}
+.problems {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; VERTICAL-ALIGN: top; BORDER-LEFT: =
+0px; COLOR: #000020; BORDER-BOTTOM: 0px; TEXT-ALIGN: center
+}
+.problems TD {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: =
+0px
+}
+.problems TH {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: =
+0px
+}
+.problem {
+	FONT-SIZE: 13px; VERTICAL-ALIGN: top; WIDTH: 100%; HEIGHT: 400px; =
+TEXT-ALIGN: center
+}
+.tekst {
+	FONT-SIZE: 13px; VERTICAL-ALIGN: top; TEXT-ALIGN: center
+}
+.mini {
+	FONT-SIZE: 9px
+}
+.slang {
+	FONT-SIZE: 9px
+}
+.slang:first-line {
+	FONT-SIZE: 13px
+}
+.prob H1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 20px; TEXT-ALIGN: center
+}
+.prob H2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 16px; TEXT-ALIGN: center
+}
+.prob H3 {
+	FONT-SIZE: 15px
+}
+.prob H4 {
+	FONT-SIZE: 14px
+}
+.prob P {
+	TEXT-ALIGN: justify
+}
+.prob ADDRESS {
+	FONT-SIZE: 13px; FONT-STYLE: italic
+}
+.prob PRE {
+	FONT-SIZE: 13px; TEXT-ALIGN: left
+}
+.prob OL {
+	TEXT-ALIGN: justify
+}
+.prob UL {
+	TEXT-ALIGN: justify
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN: 18px 10px 2px; TEXT-ALIGN: =
+justify
+}
+.description {
+	MARGIN: 2px 10px; TEXT-ALIGN: justify
+}
+.metadata {
+	FONT-SIZE: 10px; MARGIN-LEFT: 10px; COLOR: green; MARGIN-RIGHT: 10px; =
+TEXT-ALIGN: left
+}
+.metadata A {
+	COLOR: green
+}
+.highlight {
+	BACKGROUND: #ffff99
+}
+.searchheader {
+	MARGIN-LEFT: 10px; COLOR: #ffffff; MARGIN-RIGHT: 10px; =
+BACKGROUND-COLOR: navy
+}
+.searchheader TD {
+	COLOR: #ffffff
+}
+.searchheader A {
+	COLOR: #ddddff
+}
+.searchheader A:active {
+	COLOR: #ddddff
+}
+.searchheader A:hover {
+	COLOR: #ffffff
+}
+.searchheader TABLE {
+	WIDTH: 95%
+}
+.searchfooter {
+	MARGIN: 15px 10px 5px; COLOR: #ffffff; BACKGROUND-COLOR: navy
+}
+.searchfooter TD {
+	COLOR: #ffffff
+}
+.searchfooter A {
+	COLOR: #ddddff
+}
+.searchfooter A:active {
+	COLOR: #ddddff
+}
+.searchfooter A:hover {
+	COLOR: #ffffff
+}
+.searchfooter TABLE {
+	WIDTH: 95%
+}
+.searchfooter IMG {
+	VERTICAL-ALIGN: text-bottom
+}
+
+------=_NextPart_000_00BF_01C95DDB.26974A80--
