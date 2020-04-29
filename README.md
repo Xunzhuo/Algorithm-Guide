@@ -24,7 +24,7 @@
 
 + [数据结构套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀
 + [算法套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
-+ [C++套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中C%2B%2B 套件)🍟
++ [C++套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
 + [基础算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法)🤹🏼‍♀️
   + 暴力🌟
   + 二分🌟
@@ -39,13 +39,13 @@
   + 图💫
 + [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮
 + [C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
-+ [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/ 字符串)☂️
-+ [数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/ 数学)🎱
++ [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
++ [数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
 + [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
-+ [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/ 书籍)
-+ [题](https://github.com/Xunzhuo/OI_Sharing/tree/master/ 题)⛄️
-+ [研究性论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/ 研究性论文集)🎄
-+ [杂](https://github.com/Xunzhuo/OI_Sharing/tree/master/ 杂)🍀
++ [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D)
++ [题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
++ [研究性论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86)🎄
++ [杂](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
 
 ![](http://picreso.oss-cn-beijing.aliyuncs.com/alpha.jpeg)
 
