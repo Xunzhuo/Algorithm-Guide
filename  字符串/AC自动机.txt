@@ -1,0 +1,54 @@
+const int MaxN=1000000;
+const int kind=26;
+int size=0;
+struct node
+{
+    int fail,ch[kind],word;
+    int pre()
+    {
+        fail=0;
+        memset(ch,0,sizeof(ch));
+        return size;
+    }
+}trie[MaxN];
+void init()
+{
+    size=0;
+    trie[0].pre();
+}
+void built(char str[],int id)
+{
+    int p=0,k=0,idx;
+    for(;str[k];k++)
+    {
+        idx=str[k]-'a';
+        if(trie[p].ch[idx]==0) trie[p].ch[idx]=trie[++size].pre();
+        p=trie[p].ch[idx];
+    }
+    trie[p].word++;
+}
+void BFS_AC()
+{
+    queue<int>Q; Q.push(0);
+    int temp,son;
+    while(!Q.empty())
+    {
+        temp=Q.front();Q.pop();
+	trie[p].word+=trie[trie[p].fail].word;
+        for(int i=0;i<kind;i++)
+        {
+            if(trie[temp].ch[i]>0)
+            {
+                son=trie[temp].ch[i];
+                Q.push(son);
+                if(temp==0)continue;
+                trie[son].fail=trie[trie[temp].fail].ch[i];
+            }
+            else
+            {
+                if(temp==0)continue;
+                trie[temp].ch[i]=trie[trie[temp].fail].ch[i];
+            }
+        }
+    }
+}
