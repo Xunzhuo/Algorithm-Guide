@@ -45,7 +45,7 @@
   + 基础数据结构💫
   + 树💫
   + 图💫
-  + 💫 
+  + 分块💫 
 + [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮
 + [C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
 + [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
