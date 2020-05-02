@@ -86,8 +86,8 @@
 
 #### 🌲非常活跃的hdu🌲
 
-+ 杭州电子科技大学 [http://acm.hdu.edu.cn](http://acm.hdu.edu.cn/) 超过2000题，支持C/C++/Pascal/Java杭电OJ是国内最为活跃的OJ
-+ 每周都会举办bestcoder比赛，相当于国内的codeforce：http://bestcoder.hdu.edu.cn/
++ 🎄杭州电子科技大学 [http://acm.hdu.edu.cn](http://acm.hdu.edu.cn/) 超过2000题，支持C/C++/Pascal/Java杭电OJ是国内最为活跃的OJ
++ 🎄每周都会举办bestcoder比赛，相当于国内的codeforce：http://bestcoder.hdu.edu.cn/
 
 #### 🌲三大老牌OJ🌲
 
