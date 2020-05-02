@@ -1,6 +1,6 @@
 # 算法竞赛资料分享🤹🏼‍♀️
 
-因为准备实习👔，今天早上整理了一下算法的课件、书籍、论文、习题。
+因为准备实习👔，今天早上整理了一下算法的课件、书籍、论文、习题、OJ网站。
 
 + 不管是准备校招，进BAT🚀；
 + 还是自学算法竞赛💼；
@@ -10,7 +10,7 @@
 
 ![](http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg)
 
-### 全面收集、整理了从高中参加竞赛到现在的`算法竞赛课件`、`论文集`、`书籍`、`习题`等，并分类如下👀：
+### 全面收集、整理了从高中参加竞赛到现在的`算法竞赛课件`、`论文集`、`书籍`、`OJ网站`、`习题`等，并分类如下👀：
 
 > 如有侵权，麻烦提 Issues 或联系 981242367@qq.com 删改
 >
@@ -34,11 +34,11 @@
 + [算法套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
 + [C++套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
 + [基础算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法)🤹🏼‍♀️
+  + [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
+  + [高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟
   + [暴力](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B)🌟
   + [二分](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86)🌟
   + [分治](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB)🌟
-  + [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
-  + [高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟
   + [搜索](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2)🌟
   + [贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
 + [数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/数据结构)❄️
@@ -56,7 +56,7 @@
   + [数据结构与算法（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑
   + [算法竞赛](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑
   + [算法](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑
-+ [题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
++ [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
 + [研究性论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86)🎄
   + [1999论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F1999%E8%AE%BA%E6%96%87%E9%9B%86)🧳
   + [2000论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2000%E8%AE%BA%E6%96%87%E9%9B%86)🧳
@@ -69,7 +69,53 @@
   + [2007论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2007%E8%AE%BA%E6%96%87%E9%9B%86)🧳
   + [2008论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2008%E8%AE%BA%E6%96%87%E9%9B%86)🧳
   + [2009论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2009%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+  + [2013论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2013%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+  + [2014论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2014%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+  + [2015论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+  + [2018论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)🧳
 + [杂](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
+
+## OJ网站汇总🚀：
+
+### 国内Online Judge🚀
+
+#### 用户体验极佳的vjudge🌲 
+
++ 虚拟OJ：https://vjudge.net/ 这个网站的特色就是用户可以自己举办比赛，vjudge支持数十个OJ网站，用户可以从这些OJ网站上选择题目，可以选择一些同类型题目形成一个题集。
++ 但是vjudge上的题目并不会永久保存，过一段时间就被清空了。
+
+#### 非常活跃的hdu🌲 
+
++ 杭州电子科技大学 [http://acm.hdu.edu.cn](http://acm.hdu.edu.cn/) 超过2000题，支持C/C++/Pascal/Java杭电OJ是国内最为活跃的OJ
++ 每周都会举办bestcoder比赛，相当于国内的codeforce：http://bestcoder.hdu.edu.cn/
+
+#### 三大老牌OJ🌲 
+
+1. 浙江大学 [http://acm.zju.edu.cn](http://acm.zju.edu.cn/) 超过2000题，支持C/C++/Pascal/Java/Python/Perl/Scheme/PHP
+2. 北京大学 [http://poj.org](http://poj.org/) 超过2000题，支持C/C++/Pascal/Java/Fortran
+3. 哈尔滨工业大学 [http://acm.hit.edu.cn](http://acm.hit.edu.cn/) 超过2000题，支持C/C++/Pascal/Java/Fortran
+
+### 国外Online Judge🚀
+
+1. CodeForce：http://codeforces.com/problemset 世界顶级OJ，CodeForce还提供了API接口：http://codeforces.com/api/help
+2. Saratov State University [http://acm.sgu.ru](http://acm.sgu.ru/) 超过400题，支持C/C++/C#/Java/Delphi
+3. University of Valladolid [http://uva.onlinejudge.org](http://uva.onlinejudge.org/) 超过800题，支持C/C++/Pascal/Java
+4. Ural State University [http://acm.timus.ru](http://acm.timus.ru/) 超过800题，支持C/C++/C#/Pascal/Java
+5. Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 超过1000题，支持几乎所有常见语言
+
+### NOIP类OJ🚀
+
+1. vijos：大部分题目是NOI题目 https://vijos.org/
+2. 洛谷：https://www.luogu.org/problemnew/lists
+3. RQNOJ：和vijos很像，适合NOI刷题 http://www.rqnoj.cn/problem
+
+### 招聘类OJ🚀
+
+1. 牛客网：https://www.nowcoder.com/
+2. leetcode：https://leetcode.com/problemset/all/
+3. LintCode：https://www.lintcode.com/zh-cn/
+4. 51nod：http://www.51nod.com/Challenge/ProblemList.html#!#isAsc=false
+5. hackerrank：https://www.hackerrank.com/
 
 ![](http://picreso.oss-cn-beijing.aliyuncs.com/alpha.jpeg)
 
