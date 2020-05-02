@@ -84,12 +84,12 @@
 + 虚拟OJ：https://vjudge.net/ 这个网站的特色就是用户可以自己举办比赛，vjudge支持数十个OJ网站，用户可以从这些OJ网站上选择题目，可以选择一些同类型题目形成一个题集。
 + 但是vjudge上的题目并不会永久保存，过一段时间就被清空了。
 
-#### 🌲非常活跃的hdu
+#### 🌲非常活跃的hdu🌲
 
 + 杭州电子科技大学 [http://acm.hdu.edu.cn](http://acm.hdu.edu.cn/) 超过2000题，支持C/C++/Pascal/Java杭电OJ是国内最为活跃的OJ
 + 每周都会举办bestcoder比赛，相当于国内的codeforce：http://bestcoder.hdu.edu.cn/
 
-#### 🌲三大老牌OJ 
+#### 🌲三大老牌OJ🌲
 
 1. 浙江大学 [http://acm.zju.edu.cn](http://acm.zju.edu.cn/) 超过2000题，支持C/C++/Pascal/Java/Python/Perl/Scheme/PHP
 2. 北京大学 [http://poj.org](http://poj.org/) 超过2000题，支持C/C++/Pascal/Java/Fortran
@@ -119,7 +119,7 @@
 
 ![](http://picreso.oss-cn-beijing.aliyuncs.com/alpha.jpeg)
 
-## 详细文件目录👀：
+## 👔详细文件目录👀：
 
 ```markdown
 .
