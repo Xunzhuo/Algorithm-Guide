@@ -39,9 +39,10 @@
 
 
 
-+ [算法套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
-+ [数据结构套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀
-+ [C++套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
++ `三大套件`👀：
+  + [算法套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
+  + [数据结构套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀
+  + [C++套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
 + [基础算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法)🤹🏼‍♀️
   + [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
   + [高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟
