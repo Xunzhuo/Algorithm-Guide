@@ -6,7 +6,7 @@
 + 还是自学算法竞赛💼；
 + 或者单纯的课外拓展🤷；
 
-对程序员👔而言，算法学习都是有必要的，只是可能要求深浅不同，所以，开始学起来吧🌈～
+对程序员💻而言，算法学习都是有必要的，只是可能要求深浅不同，所以，开始学起来吧🌈～
 
 <div align="center">
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg"></img>
