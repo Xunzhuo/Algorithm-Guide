@@ -1,6 +1,8 @@
-<h1 align="center">算法竞赛资料分享🤹🏼‍♀️</h1>
+<div align="center">
+<h1>算法竞赛资料分享🤹🏼‍♀️</h1>
+  <img src="https://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="100px"></img>
 因为准备实习👔，今天早上整理了一下算法的课件、书籍、论文、习题、OJ网站。
-
+</div>
 + 不管是准备校招，进BAT🚀；
 + 还是自学算法竞赛💼；
 + 或者单纯的课外拓展🤷；
