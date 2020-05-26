@@ -11,7 +11,7 @@
 
 对程序员💻而言，算法学习都是有必要的，只是可能要求深浅不同，所以，开始学起来吧🌈～
 <div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg"></img>
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg" width="100%"></img>
 </div>
 
 
