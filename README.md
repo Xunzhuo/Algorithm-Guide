@@ -1,5 +1,4 @@
 <h1 align="center">算法竞赛资料分享🤹🏼‍♀️</h1>
-<div align="center">
 因为准备实习👔，今天早上整理了一下算法的课件、书籍、论文、习题、OJ网站。
 
 + 不管是准备校招，进BAT🚀；
@@ -7,7 +6,6 @@
 + 或者单纯的课外拓展🤷；
 
 对程序员💻而言，算法学习都是有必要的，只是可能要求深浅不同，所以，开始学起来吧🌈～
-</div>
 <div align="center">
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg"></img>
 </div>
