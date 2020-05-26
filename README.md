@@ -1,6 +1,6 @@
 <div align="center">
   <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="300px"></img>
-  <span> <h1>算法学习资料分享🤹🏼‍♀️</h1>
+  <span> <h1>Algorithm all in one🤹🏼‍♀️</h1>
   <h2> Let Everyone Study Algorithm Easier </h2>
   </span>
 </div>
