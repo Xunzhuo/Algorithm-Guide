@@ -1,6 +1,6 @@
 <div align="center">
 <h1>算法竞赛资料分享🤹🏼‍♀️</h1>
-  <img src="https://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="100px"></img>
+  <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="200px"></img>
 </div>
 
 因为准备实习👔，今天早上整理了一下算法的课件、书籍、论文、习题、OJ网站。
