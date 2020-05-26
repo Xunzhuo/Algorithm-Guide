@@ -31,8 +31,7 @@
 ---
 
 ## 文件导图👀：
-
-![](http://picreso.oss-cn-beijing.aliyuncs.com/mindmap.png)
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/mindmap.png" width="400px"></img>
 
 ## 文件夹目录👀：
 
