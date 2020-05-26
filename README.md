@@ -71,6 +71,7 @@
     + [数据结构与算法（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑
     + [算法竞赛](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑
     + [算法](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑
+    + [算法模版]()👑
   + `语言`：
     + `C`：
       + [CPrimerPlus](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C/c%20primerplus.pdf)👑
