@@ -1,7 +1,7 @@
 <div align="center">
   <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="300px"></img>
   <span> <h1>算法学习资料分享🤹🏼‍♀️</h1>
-  <h4 style="font-style: italic"> Let Everyone Study Algorithm Easier </h4>
+  <h4 style="color: grey;"> Let Everyone Study Algorithm Easier </h4>
   </span>
 </div>
 
