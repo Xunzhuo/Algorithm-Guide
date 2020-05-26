@@ -32,7 +32,7 @@
 
 ## 文件导图👀：
 <div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/mindmap.png" width="500px"></img>
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/mindmaps.png" width="500px"></img>
 </div>
 ## 文件夹目录👀：
 
