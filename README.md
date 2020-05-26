@@ -1,7 +1,8 @@
 <div align="center">
   <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="300px"></img>
-  <h1>算法学习资料分享🤹🏼‍♀️</h1>
-  <h4 style="font-style:italic"> Let Everyone Study Algorithm Easier </h4>
+  <span> <h1>算法学习资料分享🤹🏼‍♀️</h1>
+  <h4 style="font-style: italic"> Let Everyone Study Algorithm Easier </h4>
+  </span>
 </div>
 
 因为准备实习👔，今天早上整理了一下算法的课件、书籍、论文、习题、OJ网站。
