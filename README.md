@@ -146,35 +146,11 @@
 
 > 这一阶段因人而异，多练习多刷OJ才是王道！
 
-[1999论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F1999%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+[1999论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F1999%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2000论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2000%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2001论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2001%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2002论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2002%E8%AE%BA%E6%96%87%E9%9B%86)🧳 ||[2003论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2003%E8%AE%BA%E6%96%87%E9%9B%86)🧳
 
-[2000论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2000%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+[2004论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2004%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2005论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2005%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2006论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2006%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2007论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2007%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2008论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2008%E8%AE%BA%E6%96%87%E9%9B%86)🧳
 
-[2001论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2001%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2002论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2002%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2003论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2003%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2004论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2004%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2005论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2005%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2006论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2006%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2007论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2007%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2008论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2008%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2009论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2009%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2013论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2013%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2014论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2014%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2015论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)🧳
-
-[2018论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+[2009论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2009%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2013论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2013%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2014论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2014%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2015论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)🧳|| [2018论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)🧳
 
 ### [杂](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
 
