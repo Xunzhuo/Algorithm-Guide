@@ -84,11 +84,7 @@
 
 ### 算法
 
-[分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫
-
-[动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮
-
-[计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
+[分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫 || [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮 || [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
 
 ### 语言
 
@@ -96,11 +92,7 @@
 
 ### 数据结构
 
-[树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)🎄
-
-[图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)🛸
-
-[字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
+[树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%9 3%E6%9E%84/%E6%A0%91)🎄 ||  [图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)🛸 || [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
 
 ### 数学
 
