@@ -31,47 +31,63 @@
 >
 > 算法路上加油⛽️
 >
-> 🙀出乎意料进了`Trending`，感谢你们❤️
+> 常年在GitHub默默无闻的我👨‍🎓，出乎意料🙀进了`GitHub Trending`，感谢陌生的你们❤️
 >
 > 这是对我很大的鼓励🔥，也可以follow一下我哦🌞。我会努力带来更多优质项目，不会让你失望的🌈
 
 ---
 
-## 文件导图👀：
+<div align="center">
+  <h2>
+    文件导图👀
+  </h2>
+</div>
+
 <div align="center">
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/mindmaps.png" width="500px"></img>
 </div>
-
-## 文件夹目录👀：
+<div align="center">
+  <h2>
+    文件夹目录👀
+  </h2>
+</div>
 
 | 算法套件                                                     | 数据结构套件                                                 | C++套件                                                      | 基础算法                                                     | 数据结构                                                     | 动态规划                                                     | C++                                                          | 字符串                                                       | 数学                                                         | 计算几何                                                     | 书籍                                                         | 习题                                                         | 论文                                                         | 杂                                                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [🌲](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件) | [🚀](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6) | [🍟](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6) | [🤹🏼‍♀️](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法) | [❄️](https://github.com/Xunzhuo/OI_Sharing/tree/master/数据结构) | [🎮](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划) | [🌈](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B) | [☂️](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2) | [🎱](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6) | [🧠](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何) | [🍟](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D) | [⛄️](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98) | [🎄](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86) | [🍀](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82) |
 
-### 入门基础阶段🌱
+<div align = "center">
+  <h2> Let`s Start Our Trip 🚀 </h2>
+  <h3> 入门基础阶段🌱 </h3>
+</div>
 
 + [入门套件](https://github.com/Xunzhuo/OI_Sharing)👀：
+  
   + [算法入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
   + [数据结构入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀
   + [C++入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
 + [基础算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法)🤹🏼‍♀️
+  
   + [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
   + [高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟
   + [暴力](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B)🌟
   + [二分](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86)🌟
   + [分治](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB)🌟
   + [搜索](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2)🌟
-  + [贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
-
++ [贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
+  
 + [数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/数据结构)❄️
+  
   + [基础数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
   
   ---
-### 进阶成长阶段🌲
+<div align = "center">
+  <h3> 进阶成长阶段🌲 </h3>
+</div>
 
 
-  + [树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)💫
-  + [图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)💫
+  + [树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)🎄
+  + [图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)🛸
   + [分块](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫
 + [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮
 + [C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
@@ -81,7 +97,9 @@
 
 ---
 
-### 巩固加强阶段🚀
+<div align = "center">
+  <h3> 巩固加强阶段🚀 </h3>
+</div>
 
 
 + [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D)🍟
@@ -104,11 +122,13 @@
       + [流畅的Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)👑
       + [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf)👑
       + [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)👑
-+ [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
++ [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️（更有效的方式训练是在OJ上刷题）
 
 ---
 
-### 高级修炼阶段👽
+<div align = "center">
+  <h3> 高级修炼阶段👽 </h3>
+</div>
 
 
 + [研究性论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86)🎄
@@ -131,7 +151,11 @@
 
 ---
 
-## OJ网站汇总🚀：
+<div align="center">
+  <h2>
+    OJ网站汇总🚀
+  </h2>
+</div>
 
 
 ### 🚀国内Online Judge
@@ -155,10 +179,16 @@
 
 ### 🚀国外Online Judge
 
-1. 🎄CF：CodeForce：http://codeforces.com/problemset 世界顶级OJ，CodeForce还提供了API接口：http://codeforces.com/api/help
+1. 🎄CF：CodeForce：http://codeforces.com/problemset 世界顶级OJ
+
+   🎄CodeForce还提供了API接口：http://codeforces.com/api/help
+
 2. 🎄Saratov State University [http://acm.sgu.ru](http://acm.sgu.ru/) 超过400题，支持C/C++/C#/Java/Delphi
+
 3. 🎄UVA：University of Valladolid [http://uva.onlinejudge.org](http://uva.onlinejudge.org/) 超过800题，支持C/C++/Pascal/Java
+
 4. 🎄Ural State University [http://acm.timus.ru](http://acm.timus.ru/) 超过800题，支持C/C++/C#/Pascal/Java
+
 5. 🎄Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 超过1000题，支持几乎所有常见语言
 
 ---
@@ -183,7 +213,11 @@
 
 ---
 
-## 👔详细文件目录👀：
+<div align="center">
+  <h2>
+    👔详细文件目录👀
+      </h2>
+</div>
 
 ```markdown
 🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲🌲
