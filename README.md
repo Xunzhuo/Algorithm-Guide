@@ -14,9 +14,9 @@
 + 或者单纯的课外拓展🤷；
 + 不管你算法能力如何，这个仓库里总有适合你的算法学习资料✈️！
 
-对程序员🧑‍💻而言，算法学习都是有必要的，只是不同领域可能要求深浅不同
-
-所以，咱们开始学起来吧🌈～
+> 对程序员🧑‍💻而言，算法学习都是有必要的，只是不同领域可能要求深浅不同
+>
+> 所以，咱们开始学起来吧🌈～
 
 <div align="center">
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg" width="100%"></img>
@@ -116,8 +116,8 @@
     + `C`：
       + [CPrimerPlus](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C/c%20primerplus.pdf)👑
     + `C++`：
-      + [C++PrimerPlus](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑(TOO LARGE TO SUBMIT)
-      + [C++Primer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑(TOO LARGE TO SUBMMIMT)
+      + [C++PrimerPlus](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑
+      + [C++Primer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑
       + [Effective C++](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20C%2B%2B.pdf)👑
       + [Effective STL](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20STL.pdf)👑
     + `Python`：
@@ -125,7 +125,7 @@
       + [流畅的Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)👑
       + [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf)👑
       + [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)👑
-+ [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️（更有效的方式训练是在OJ上刷题）
++ [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️（👀 更有效的方式训练是在OJ上刷题）
 
 ---
 
