@@ -61,48 +61,75 @@
 
 <div align = "center">
   <h1> Let`s Start Our Trip 🚀 </h1>
-  <h3> 入门基础阶段🌱 </h3>
+  <h2> 入门基础阶段🌱 </h2>
+
+- [ ] ### 算法、数据结构、C++入门👀：
+
+[算法入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
+
+[数据结构入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀
+
+[C++入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
+
+- [ ] ### 基础算法🤹🏼‍♀️
+
+[复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
+
+[高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟
+
+[暴力](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B)🌟
+
+[二分](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86)🌟
+
+[分治](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB)🌟
+
+[搜索](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2)🌟
+
+[贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
+
+- [ ] ### 数据结构❄️
+
+[基础数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
+
 </div>
-
-+ [入门套件](https://github.com/Xunzhuo/OI_Sharing)👀：
-  
-  + [算法入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
-  + [数据结构入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀
-  + [C++入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
-+ [基础算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法)🤹🏼‍♀️
-  
-  + [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
-  + [高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟
-  + [暴力](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B)🌟
-  + [二分](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86)🌟
-  + [分治](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB)🌟
-  + [搜索](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2)🌟
-+ [贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
-  
-+ [数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/数据结构)❄️
-  
-  + [基础数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
-  
-  ---
-<div align = "center">
-  <h3> 进阶成长阶段🌲 </h3>
-</div>
-
-
-  + [树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)🎄
-  + [图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)🛸
-  + [分块](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫
-+ [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮
-+ [C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
-+ [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
-+ [数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
-+ [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
 
 ---
 
 <div align = "center">
-  <h3> 巩固加强阶段🚀 </h3>
+  <h2> 进阶成长阶段🌲 </h2>
+
+- [ ] ### 算法
+
+[分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫
+
+[动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮
+
+[计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
+
+- [ ] ### 语言
+
+[C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
+
+- [ ] ### 数据结构
+
+[树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)🎄
+
+[图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)🛸
+
+[字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
+
+- [ ] ### 数学
+
+[数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
+
 </div>
+
+---
+
+<div align = "center">
+  <h2> 巩固加强阶段🚀 </h2>
+</div>
+
 
 
 + [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D)🍟
@@ -130,8 +157,9 @@
 ---
 
 <div align = "center">
-  <h3> 高级修炼阶段👽 </h3>
+  <h2> 高级修炼阶段👽 </h2>
 </div>
+
 
 
 + [研究性论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86)🎄
