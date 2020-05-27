@@ -104,31 +104,36 @@
 
 <div align = "center">
   <h2> 巩固加强阶段🚀 </h2>
+
+
+
+### 阅读书籍📚
+
+#### `算法`🔥
+
+[数学之美](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)👑 || [数据结构与算法（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑 || [算法竞赛](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑 || [算法](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑 || [算法模版](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/ACM%E6%A8%A1%E6%9D%BF.pdf)👑
+
+#### `语言`🔥
+
+`C`🔥
+
+[CPrimerPlus](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C/c%20primerplus.pdf)👑
+
+`C++`🔥
+
+[C++PrimerPlus](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑 || [C++Primer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑 || [Effective C++](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20C%2B%2B.pdf)👑 || [Effective STL](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20STL.pdf)👑
+
+`Python`🔥
+
+[从入门到实践](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)👑 || [流畅的Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)👑 || [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf)👑 || [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)👑
+
+### 练习题🚀
+
+[习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
+
+👀 更有效的方式训练是直接在OJ上刷题
+
 </div>
-
-
-
-+ [书籍](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D)🍟
-  + `算法`：
-    + [数学之美](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)👑
-    + [数据结构与算法（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑
-    + [算法竞赛](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑
-    + [算法](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑
-    + [算法模版](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/ACM%E6%A8%A1%E6%9D%BF.pdf)👑
-  + `语言`：
-    + `C`：
-      + [CPrimerPlus](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C/c%20primerplus.pdf)👑
-    + `C++`：
-      + [C++PrimerPlus](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑
-      + [C++Primer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑
-      + [Effective C++](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20C%2B%2B.pdf)👑
-      + [Effective STL](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20STL.pdf)👑
-    + `Python`：
-      + [从入门到实践](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)👑
-      + [流畅的Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)👑
-      + [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf)👑
-      + [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)👑
-+ [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️（👀 更有效的方式训练是在OJ上刷题）
 
 ---
 
@@ -155,6 +160,8 @@
   + [2015论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)🧳
   + [2018论文集](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)🧳
 + [杂](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
+
+> 这一阶段因人而异，多练习多刷OJ才是王道！
 
 ---
 
