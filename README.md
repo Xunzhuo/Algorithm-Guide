@@ -63,7 +63,7 @@
   <h1> Let`s Start Our Trip 🚀 </h1>
   <h2> 入门基础阶段🌱 </h2>
 
-- [ ] ### 算法、数据结构、C++入门👀：
+### 算法、数据结构、C++入门👀：
 
 [算法入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲
 
@@ -71,7 +71,7 @@
 
 [C++入门套件](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
 
-- [ ] ### 基础算法🤹🏼‍♀️
+### 基础算法🤹🏼‍♀️
 
 [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟
 
@@ -87,7 +87,7 @@
 
 [贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
 
-- [ ] ### 数据结构❄️
+### 数据结构❄️
 
 [基础数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
 
@@ -98,7 +98,7 @@
 <div align = "center">
   <h2> 进阶成长阶段🌲 </h2>
 
-- [ ] ### 算法
+### 算法
 
 [分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫
 
@@ -106,11 +106,11 @@
 
 [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
 
-- [ ] ### 语言
+### 语言
 
 [C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
 
-- [ ] ### 数据结构
+### 数据结构
 
 [树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)🎄
 
@@ -118,7 +118,7 @@
 
 [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️
 
-- [ ] ### 数学
+### 数学
 
 [数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
 
