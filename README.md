@@ -84,7 +84,7 @@
 
 ### 算法
 
-[分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫 || [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮 || [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
+[动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮 || [分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫 ||  [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
 
 ### 语言
 
