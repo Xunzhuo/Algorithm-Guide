@@ -49,9 +49,9 @@
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/mindmaps.png" width="500px"></img>
 </div>
 <div align="center">
-  <h2>
+  <h1>
     文件夹目录👀
-  </h2>
+  </h1>
   <h3>
     点击进入对应详细目录🌈
   </h3>
