@@ -28,15 +28,13 @@
 
 > 文件很多，目录很长，所以分为文件夹目录和文件树，点击文件目录进入对应详细文件树查阅👀
 >
-> 欢迎大家贡献你的资料，丰富这个`Repo`
->
 > 如果对你有所帮助，请 star✨ 支持一下
 >
-> 算法路上加油⛽️
+> 出乎意料🙀进了`GitHub Trending`，感谢陌生的你们😊，这是对我很大的鼓励🔥
 >
-> 出乎意料🙀进了`GitHub Trending`，感谢陌生的你们❤️
+> 我是个在读软件工程大二学生，一个AI选手，主攻NLP，偶尔可以做做前后端开发。
 >
-> 这是对我很大的鼓励🔥，也可以follow一下我哦🌞。我会努力带来更多优质项目，不会让你失望的🌈
+> 可以follow一下我啊🌞。以后会分享相关的知识和我的研究成果，努力带来更多优质项目～
 
 ---
 
@@ -121,7 +119,7 @@
 
 #### `算法`🔥
 
-[数学之美](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)👑 || [数据结构与算法（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑 || [算法竞赛](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑 || [算法](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑 || [算法模版](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/ACM%E6%A8%A1%E6%9D%BF.pdf)👑
+ [算法竞赛](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑 || [数学之美](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)👑 || [数据结构与算法（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑 || [算法](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑 || [算法模版](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/ACM%E6%A8%A1%E6%9D%BF.pdf)👑
 
 #### `语言`🔥
 
@@ -233,5 +231,9 @@
 ---
 
 > 如果对你有帮助希望你不吝啬手中的`star`哦、如果能`follow`就更好啦，我们一起进步🔥！
+>
+> 算法路上加油⛽️
+>
+> 欢迎大家贡献你的资料，丰富这个`Repo`
 >
 > 如有侵权，麻烦提 Issues 或联系 981242367@qq.com 删改
