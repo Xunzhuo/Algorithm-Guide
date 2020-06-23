@@ -236,4 +236,4 @@
 >
 > 欢迎大家贡献你的资料，丰富这个`Repo`
 >
-> 如有侵权，麻烦提 Issues 或联系 981242367@qq.com 删改
+> 如有侵权，麻烦提 Issues 或联系 mixdeers@gmail.com 删改
