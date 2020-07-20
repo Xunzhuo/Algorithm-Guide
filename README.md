@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="300px"></img>
   <span> <h1>Algorithm All in ONE🎄</h1>
   <h2> Let Everyone Study Algorithm Easier😊 </h2>
   </span>
@@ -213,7 +212,7 @@
 ### 🚀入门到进阶的Online Judge
 
 1. 🎄vijos：大部分题目是NOI题目 https://vijos.org/
-2. 🎄洛谷：https://www.luogu.org/problemnew/lists
+2. 🎄洛谷：https://www.luogu.com.cn/problem/list
 3. 🎄RQNOJ：和vijos很像，适合NOI刷题 http://www.rqnoj.cn/problem
 
 ---
