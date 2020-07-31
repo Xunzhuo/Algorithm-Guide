@@ -1,12 +1,11 @@
 <div align="center">
   <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="300px"></img>
-  <span> <h1>Algorithm All in ONE🎄</h1>
+  <span> 
+  <h1>Algorithm All in ONE🎄</h1>
   <h2> Let Everyone Study Algorithm Easier😊 </h2>
   </span>
 </div>
 
-
----
 
 因为准备实习👔，整理了一下算法的课件、书籍、论文、习题、OJ网站，总结了学习路线。
 + 不管是准备面试，进BAT🚀；
@@ -19,7 +18,7 @@
 > 所以，咱们开始学起来吧🌈～
 
 <div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg" width="100%"></img>
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg" width="80%"></img>
 </div>
 
 
