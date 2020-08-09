@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg"></img>
   <span> 
   <h1>Algorithm in 4 Steps🎄</h1>
   <h2> Let Everyone Study Algorithm Easier😊 </h2>
@@ -20,11 +20,6 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 > For developers，learning Algorithms is necessary.
 >
 > So, Let`s get started🌈～
-
-<div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg" width="80%"></img>
-</div>
-
 
 
 ### I summarized the Algorithm courseware, books, papers, exercises, OJ website，and made the Roadmap of Algorithms Learning.👀：
