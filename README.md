@@ -22,7 +22,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 > So, Let`s get started🌈～
 
 <div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg" width="80%"></img>
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg" width="80%"></img>
 </div>
 
 
