@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg" width="80%"></img>
   <span> <h1>Algorithm in 4 Steps🎄</h1>
   <h2> Let Everyone Study Algorithm Easier😊 </h2>
   </span>
@@ -20,9 +20,7 @@
 >
 > 所以，咱们开始学起来吧🌈～
 
-<div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg" width="100%"></img>
-</div>
+
 
 
 
