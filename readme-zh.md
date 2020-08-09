@@ -21,7 +21,7 @@
 > 所以，咱们开始学起来吧🌈～
 
 <div align="center">
-<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alo.jpg" width="100%"></img>
+<img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg" width="100%"></img>
 </div>
 
 
