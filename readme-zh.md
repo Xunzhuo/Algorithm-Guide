@@ -63,7 +63,7 @@
 
 <div align = "center">
   <h1> Let`s Start Our Trip 🚀 </h1>
-  <h1> 🌱🌱 </h1>
+  <h1> 第一步🦶 </h1>
 
 
 
@@ -84,7 +84,7 @@
 ---
 
 <div align = "center">
-  <h1> 🌲🌲🌲🌲 </h1>
+  <h1> 第二步🦶 </h1>
 
 
 
@@ -109,7 +109,7 @@
 ---
 
 <div align = "center">
-  <h1> 🎄🎄🎄🎄🎄🎄 </h1>
+  <h1> 第三步🦶 </h1>
 
 
 
@@ -146,7 +146,7 @@
 ---
 
 <div align = "center">
-  <h1> 🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄 </h1>
+  <h1> 第四步🦶 </h1>
 
 
 
