@@ -56,7 +56,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 <div align = "center">
   <h1> Let`s Start Our Trip 🚀 </h1>
-  <h1> 🌱🌱 </h1>
+  <h1> Step one🦶 </h1>
 
 
 
@@ -77,7 +77,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 ---
 
 <div align = "center">
-  <h1> 🌲🌲🌲🌲 </h1>
+  <h1> Step two🦶 </h1>
 
 
 
@@ -102,7 +102,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 ---
 
 <div align = "center">
-  <h1> 🎄🎄🎄🎄🎄🎄 </h1>
+  <h1> Step three🦶 </h1>
 
 
 
@@ -139,7 +139,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 ---
 
 <div align = "center">
-  <h1> 🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄🎄 </h1>
+  <h1>Step four🦶</h1>
 
 
 
