@@ -1,6 +1,6 @@
 <div align="center">
   <img src="http://picreso.oss-cn-beijing.aliyuncs.com/oishare.png" width="300px"></img>
-  <span> <h1>Algorithm All in ONE🎄</h1>
+  <span> <h1>Algorithm in 4 Steps🎄</h1>
   <h2> Let Everyone Study Algorithm Easier😊 </h2>
   </span>
 </div>
