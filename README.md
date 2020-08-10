@@ -52,7 +52,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 <div align = "center">
   <h1> Let`s Start Our Trip 🚀 </h1>
   <h1> Step one🦶 </h1>
-
+</div>
 
 
 ### Get into Algorithm、Data Structure、C++👀：
@@ -69,13 +69,12 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 [Basic Data Structure](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
 
-</div>
 
 ---
 
 <div align = "center">
   <h1> Step two🦶 </h1>
-
+</div>
 
 
 ### Deeper Algorithm
@@ -94,14 +93,14 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 [Math](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
 
-</div>
+
 
 ---
 
 <div align = "center">
   <h1> Step three🦶 </h1>
 
-
+</div>
 
 
 
@@ -131,14 +130,14 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 👀 More efficient method is Practicing on Online Judges
 
-</div>
+
 
 ---
 
 <div align = "center">
   <h1>Step four🦶</h1>
 
-
+</div>
 
 
 
@@ -154,7 +153,6 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 ### [Other](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
 
-</div>
 
 ---
 
