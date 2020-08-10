@@ -52,7 +52,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 <div align = "center">
   <h1> Let`s Start Our Trip 🚀 </h1>
   <h1> Step one🦶 </h1>
-</div>
+
 
 
 ### Get into Algorithm、Data Structure、C++👀：
@@ -72,9 +72,8 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 ---
 
-<div align = "center">
+
   <h1> Step two🦶 </h1>
-</div>
 
 
 ### Deeper Algorithm
@@ -97,10 +96,10 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 ---
 
-<div align = "center">
+
   <h1> Step three🦶 </h1>
 
-</div>
+
 
 
 
@@ -134,7 +133,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 ---
 
-<div align = "center">
+
   <h1>Step four🦶</h1>
 
 </div>
