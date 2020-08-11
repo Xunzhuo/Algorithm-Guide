@@ -30,7 +30,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 >
 > You can follow me🌞for upcoming good Projects ～
 
----
+
 
 <div align="center">
   <h1>
@@ -70,7 +70,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 [Basic Data Structure](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
 
 
----
+
 
 
   <h1> Step two🦶 </h1>
@@ -94,7 +94,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 
 
----
+
 
 
   <h1> Step three🦶 </h1>
@@ -131,7 +131,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 
 
----
+
 
 
   <h1>Step four🦶</h1>
@@ -154,7 +154,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 </div>
 
----
+
 
 <div align="center">
   <h2>
@@ -164,7 +164,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 
 
----
+
 
 ### 🚀WorldwideOnline Judge
 
@@ -180,7 +180,6 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 5. 🎄Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 
 
----
 
 ### 🚀Systematic Online Judge
 
@@ -188,7 +187,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 2. 🎄Luogu：https://www.luogu.org/problemnew/lists
 3. 🎄RQNOJ： http://www.rqnoj.cn/problem
 
----
+
 
 ### 🚀Interview Online Judge
 
@@ -200,7 +199,6 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 ![](http://picreso.oss-cn-beijing.aliyuncs.com/alpha.jpeg)
 
----
 
 > If you like please give me a star!✨
 >
