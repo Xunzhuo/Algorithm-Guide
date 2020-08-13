@@ -19,16 +19,16 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 > For developers，learning Algorithms is necessary.
 >
-> So, Let`s get started🌈～
+> So, Let`s get started 🌈 ～
 
 
 ### I summarized the Algorithm courseware, books, papers, exercises, OJ website，and made the Roadmap of Algorithms Learning.👀：
 
 > If it is helpful，please star it✨ to support me!
 >
-> Unexpectly🙀 get into`GitHub Trending`，Thanks for Supporting😊🔥
+> Unexpectly🙀 get into`GitHub Trending`，Thanks for Supporting😊
 >
-> You can follow me🌞for upcoming good Projects ～
+> You can follow me🌞 for upcoming good Projects ～
 
 
 
