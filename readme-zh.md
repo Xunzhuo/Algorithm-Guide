@@ -7,7 +7,7 @@
 </div>
 <center>
 
-[中文](readme-zh.md)🇨🇳 | [English](README.md)🇺🇸
+[中文](README.md)🇨🇳 | [English](readme-zh.md)🇺🇸
 
 </center>
 
