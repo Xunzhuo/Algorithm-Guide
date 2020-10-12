@@ -45,7 +45,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 | [🌲](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件) | [🚀](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6) | [🍟](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6) | [🤹🏼‍♀️](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法) | [❄️](https://github.com/Xunzhuo/OI_Sharing/tree/master/数据结构) | [🎮](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划) | [🌈](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B) | [☂️](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2) | [🎱](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6) | [🧠](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何) | [🍟](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D) | [⛄️](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98) | [🎄](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86) | [🍀](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82) |
 
 <div align = "center">
-  <h1> Let`s Start Our Trip 🚀 </h1>
+  <h1> Let`s Start Our Trip </h1>
   <h1> Step one🦶 </h1>
 
 
@@ -140,11 +140,11 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 > Deepest Part for Someone interested.
 
-[1999 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F1999%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2000 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2000%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2001 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2001%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2002 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2002%E8%AE%BA%E6%96%87%E9%9B%86)🧳 ||[2003 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2003%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+[1999 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F1999%E8%AE%BA%E6%96%87%E9%9B%86) || [2000 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2000%E8%AE%BA%E6%96%87%E9%9B%86)|| [2001 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2001%E8%AE%BA%E6%96%87%E9%9B%86) || [2002 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2002%E8%AE%BA%E6%96%87%E9%9B%86) ||[2003 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2003%E8%AE%BA%E6%96%87%E9%9B%86)
 
-[2004 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2004%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2005 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2005%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2006 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2006%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2007 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2007%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2008 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2008%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+[2004 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2004%E8%AE%BA%E6%96%87%E9%9B%86) || [2005 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2005%E8%AE%BA%E6%96%87%E9%9B%86) || [2006 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2006%E8%AE%BA%E6%96%87%E9%9B%86) || [2007 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2007%E8%AE%BA%E6%96%87%E9%9B%86)|| [2008 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2008%E8%AE%BA%E6%96%87%E9%9B%86)
 
-[2009 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2009%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2013 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2013%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2014 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2014%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2015 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)🧳|| [2018 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)🧳
+[2009 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2009%E8%AE%BA%E6%96%87%E9%9B%86) || [2013 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2013%E8%AE%BA%E6%96%87%E9%9B%86) || [2014 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2014%E8%AE%BA%E6%96%87%E9%9B%86) || [2015 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)|| [2018 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)
 
 ### [Other](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)
 
@@ -165,34 +165,34 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 ### WorldwideOnline Judge
 
-1. 🎄CF：CodeForce：http://codeforces.com/problemset 
+1. CF：CodeForce：http://codeforces.com/problemset 
 
-   🎄CodeForceAPI：http://codeforces.com/api/help
+   CodeForceAPI：http://codeforces.com/api/help
 
-2. 🎄Saratov State University [http://acm.sgu.ru](http://acm.sgu.ru/) support C/C++/C#/Java/Delphi
+2. Saratov State University [http://acm.sgu.ru](http://acm.sgu.ru/) support C/C++/C#/Java/Delphi
 
-3. 🎄UVA：University of Valladolid [http://uva.onlinejudge.org](http://uva.onlinejudge.org/) support C/C++/Pascal/Java
+3. UVA：University of Valladolid [http://uva.onlinejudge.org](http://uva.onlinejudge.org/) support C/C++/Pascal/Java
 
-4. 🎄Ural State University [http://acm.timus.ru](http://acm.timus.ru/) support C/C++/C#/Pascal/Java
+4. Ural State University [http://acm.timus.ru](http://acm.timus.ru/) support C/C++/C#/Pascal/Java
 
-5. 🎄Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 
+5. Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 
 
 
 ### Systematic Online Judge
 
-1. 🎄vijos： https://vijos.org/
-2. 🎄Luogu：https://www.luogu.org/problemnew/lists
-3. 🎄RQNOJ： http://www.rqnoj.cn/problem
+1. vijos： https://vijos.org/
+2. Luogu：https://www.luogu.org/problemnew/lists
+3. RQNOJ： http://www.rqnoj.cn/problem
 
 
 
 ### Interview Online Judge
 
-1. 🎄Niuke：https://www.nowcoder.com/
-2. 🎄leetcode：https://leetcode.com/problemset/all/
-3. 🎄LintCode：https://www.lintcode.com/zh-cn/
-4. 🎄51nod：http://www.51nod.com/Challenge/ProblemList.html#!#isAsc=false
-5. 🎄hackerrank：https://www.hackerrank.com/
+1. Niuke：https://www.nowcoder.com/
+2. leetcode：https://leetcode.com/problemset/all/
+3. LintCode：https://www.lintcode.com/zh-cn/
+4. 51nod：http://www.51nod.com/Challenge/ProblemList.html#!#isAsc=false
+5. hackerrank：https://www.hackerrank.com/
 
 ![](http://picreso.oss-cn-beijing.aliyuncs.com/alpha.jpeg)
 
