@@ -20,8 +20,6 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 > If it is helpful，please star it to support me!
 >
-> For developers，learning Algorithms is necessary. So, Let`s get started 🌈 ～
->
 > Unexpectly, get into `GitHub Trending`, Thanks for Supporting!
 >
 > You can follow me for upcoming good Projects ～
