@@ -53,17 +53,17 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 ### Get into Algorithm、Data Structure、C++👀：
 
-[Algo Courseware](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件)🌲 || [DS Courseware](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6)🚀 || [C++ Courseware](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)🍟
+[Algo Courseware](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件) || [DS Courseware](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6) || [C++ Courseware](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)
 
-### Basic Algorithm🤹🏼‍♀️
+### Basic Algorithm
 
-[Complexity analysis](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)🌟[High precision](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6)🌟 || [Enumerate](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B)🌟 || 
+[Complexity analysis](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90)||[High precision](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6) || [Enumerate](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B) || 
 
-[Dichotomy](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86)🌟 ||  [Divide and conquer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB) 🌟 || [Search](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2)🌟 || [Greedy algorithm](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)🌟
+[Dichotomy](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86) ||  [Divide and conquer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB)  || [Search](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2) || [Greedy algorithm](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)
 
-### Basic Data Structure❄️
+### Basic Data Structure
 
-[Basic Data Structure](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)💫
+[Basic Data Structure](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
 
 
@@ -74,19 +74,19 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 ### Deeper Algorithm
 
-[Dynamic programming](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划)🎮 || [Blocking algorithm](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97)💫 ||  [Computational Geometry](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)🧠
+[Dynamic programming](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划) || [Blocking algorithm](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97) ||  [Computational Geometry](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)
 
 ### Deeper Language
 
-[C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)🌈
+[C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)
 
 ### Deeper Data Structure
 
-[Tree](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91)🎄 || [String](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2)☂️ ||  [Graph](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)🛸 
+[Tree](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91) || [String](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2) ||  [Graph](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)
 
 ### Deeper Math
 
-[Math](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)🎱
+[Math](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)
 
 
 
@@ -99,31 +99,31 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 
 
-### Books📚
+### Books
 
-#### `Algorithm`🔥
+#### `Algorithm`
 
- [Algorithm Competition](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf)👑 || [Beauty of Math](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf)👑 || [Data Structure and Algorithm（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf)👑 || [Algorithm](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)👑 
+ [Algorithm Competition](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%E7%AB%9E%E8%B5%9B%E5%85%A5%E9%97%A8%E7%BB%8F%E5%85%B8.pdf) || [Beauty of Math](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E5%AD%A6%E4%B9%8B%E7%BE%8E.pdf) || [Data Structure and Algorithm（Java）](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95.pdf) || [Algorithm](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E7%AE%97%E6%B3%95/%E7%AE%97%E6%B3%95%EF%BC%88%E7%AC%AC%E5%9B%9B%E7%89%88%EF%BC%89.pdf)
 
-#### `Language`🔥
+#### `Language`
 
-`C`🔥
+`C`
 
-[CPrimerPlus](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C/c%20primerplus.pdf)👑
+[CPrimerPlus](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C/c%20primerplus.pdf)
 
-`C++`🔥
+`C++`
 
-[C++PrimerPlus](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑 || [C++Primer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)👑 || [Effective C++](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20C%2B%2B.pdf)👑 || [Effective STL](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20STL.pdf)👑
+[C++PrimerPlus](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B) || [C++Primer](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B)|| [Effective C++](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20C%2B%2B.pdf) || [Effective STL](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/C%2B%2B/Effective%20STL.pdf)
 
-`Python`🔥
+`Python`
 
-[From 0 to action](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf)👑 || [Fluent Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf)👑 || [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf)👑 || [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)👑
+[From 0 to action](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf) || [Fluent Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf) || [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf) || [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)
 
-### Exercise🚀
+### Exercise
 
-[Exercise](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)⛄️
+[Exercise](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)
 
-👀 More efficient method is Practicing on Online Judges
+ More efficient method is Practicing on Online Judges！
 
 
 
@@ -136,7 +136,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 
 
-### Papers🎄
+### Papers
 
 > Deepest Part for Someone interested.
 
@@ -146,7 +146,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 [2009 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2009%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2013 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2013%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2014 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2014%E8%AE%BA%E6%96%87%E9%9B%86)🧳 || [2015 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2015%E8%AE%BA%E6%96%87%E9%9B%86)🧳|| [2018 Papers](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86/%E5%9B%BD%E5%AE%B6%E9%9B%86%E8%AE%AD%E9%98%9F2018%E8%AE%BA%E6%96%87%E9%9B%86)🧳
 
-### [Other](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)🍀
+### [Other](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82)
 
 </div>
 
@@ -154,7 +154,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 <div align="center">
   <h2>
-    Online Judge SITE🚀
+    Online Judge Sites
   </h2>
 </div>
 
@@ -163,7 +163,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 
 
-### 🚀WorldwideOnline Judge
+### WorldwideOnline Judge
 
 1. 🎄CF：CodeForce：http://codeforces.com/problemset 
 
@@ -178,7 +178,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 5. 🎄Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 
 
 
-### 🚀Systematic Online Judge
+### Systematic Online Judge
 
 1. 🎄vijos： https://vijos.org/
 2. 🎄Luogu：https://www.luogu.org/problemnew/lists
@@ -186,7 +186,7 @@ For Upcoming Interviews，I summarized the algorithm courseware, books, papers, 
 
 
 
-### 🚀Interview Online Judge
+### Interview Online Judge
 
 1. 🎄Niuke：https://www.nowcoder.com/
 2. 🎄leetcode：https://leetcode.com/problemset/all/
