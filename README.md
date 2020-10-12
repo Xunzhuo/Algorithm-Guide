@@ -1,45 +1,42 @@
 <div align="center">
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg"></img>
   <span> 
-  <h1>Algorithm in 4 Steps🎄</h1>
-  <h2> Let Everyone Study Algorithm Easier😊 </h2>
+  <h1>Algorithm in 4 Steps</h1>
+  <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
 </div>
 <center>
-  
+
 [中文](readme-zh.md)🇨🇳 | [English](README.md)🇺🇸
 
 </center>
 
-For Upcoming Interviews👔，I summarized the algorithm courseware, books, papers, exercises, OJ website，and made the Roadmap of Algorithms Learning.
-+ If you are preparing for interviews, to get in BAT, Google, Microsoft..🚀；
-+ Or you are trying to learn Algorithms by yourself💼；
-+ Or just try to broaden your horizons by Learning Algorithms🤷；
-+ No matter how familiar are you with Algorithms, this Repo has something match with you✈️！
+For Upcoming Interviews，I summarized the algorithm courseware, books, papers, exercises, OJ website，and made the Roadmap of Algorithms Learning.
 
-> For developers，learning Algorithms is necessary.
++ If you are preparing for interviews, to get in BAT, Google, Microsoft..；
++ Or you are trying to learn Algorithms by yourself；
++ Or just try to broaden your horizons by Learning Algorithms；
++ No matter how familiar are you with Algorithms, this Repo has something match with you！
+
+> If it is helpful，please star it to support me!
 >
-> So, Let`s get started 🌈 ～
-
-
-### I summarized the Algorithm courseware, books, papers, exercises, OJ website，and made the Roadmap of Algorithms Learning.👀：
-
-> If it is helpful，please star it✨ to support me!
+> For developers，learning Algorithms is necessary. So, Let`s get started 🌈 ～
 >
-> Unexpectly🙀 get into`GitHub Trending`，Thanks for Supporting😊
+> Unexpectly, get into `GitHub Trending`, Thanks for Supporting!
 >
-> You can follow me🌞 for upcoming good Projects ～
+> You can follow me for upcoming good Projects ～
 
 
 
 <div align="center">
   <h1>
-    Content👀
+    Content
   </h1>
   <h3>
-    👇Click into Specific Section🌈
+    Click into Specific Section👇
   </h3>
 </div>
+
 
 
 
@@ -52,6 +49,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 <div align = "center">
   <h1> Let`s Start Our Trip 🚀 </h1>
   <h1> Step one🦶 </h1>
+
 
 
 
@@ -166,6 +164,7 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 
 
+
 ### 🚀WorldwideOnline Judge
 
 1. 🎄CF：CodeForce：http://codeforces.com/problemset 
@@ -201,4 +200,3 @@ For Upcoming Interviews👔，I summarized the algorithm courseware, books, pape
 
 
 > If you like please give me a star!✨
->
