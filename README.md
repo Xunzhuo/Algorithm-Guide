@@ -4,7 +4,7 @@
   <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
 </div>
-[中文](README.md)/[English](readme-en.md)
+[中文](./README.md) / [English](./readme-en.md)
 
 因为准备实习，整理了一下算法的课件、书籍、论文、习题、OJ网站，总结了学习路线。
 
