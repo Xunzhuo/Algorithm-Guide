@@ -38,19 +38,19 @@
 | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/基础算法) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/数据结构) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E4%B9%A6%E7%B1%8D) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E7%A0%94%E7%A9%B6%E6%80%A7%E8%AE%BA%E6%96%87%E9%9B%86) | [🌞](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%9D%82) |
 
 <div align = "center">
-  <h1> 一、快速入门 </h1>
+  <h2> 一、快速入门 </h2>
 
-## 算法、数据结构、C++快速入门：
+### 算法、数据结构、C++快速入门：
 
 [算法入门](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件) || [数据结构入门](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6) || [C++入门](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)
 
-# 二、专题训练
+## 二、专题训练
 
-## 基础算法
+### 基础算法
 
 [复杂度分析](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%88%86%E6%9E%90) || [高精度](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E9%AB%98%E7%B2%BE%E5%BA%A6) || [暴力](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%9A%B4%E5%8A%9B) || [二分](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E4%BA%8C%E5%88%86) || [分治](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E5%88%86%E6%B2%BB)  || [搜索](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E6%90%9C%E7%B4%A2) || [贪心](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95/%E8%B4%AA%E5%BF%83)
 
-## 基础数据结构
+### 基础数据结构
 
 [基础数据结构](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
@@ -59,23 +59,23 @@
 
 
 <div align = "center">
-  <h1> 三、高阶段训练 </h1>
+  <h2> 三、高阶训练 </h2>
 
-## 算法进阶
+### 算法进阶
 
 [动态规划](https://github.com/Xunzhuo/OI_Sharing/tree/master/动态规划) || [分块算法](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%88%86%E5%9D%97) ||  [计算几何](https://github.com/Xunzhuo/OI_Sharing/tree/master/计算几何)
 
-## 数据结构进阶
+### 数据结构进阶
 
 [树](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E6%A0%91) || [字符串](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E5%AD%97%E7%AC%A6%E4%B8%B2) ||  [图](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%9B%BE%E8%AE%BA)
 
-## 语言进阶
+### 语言进阶
 
 [C++](https://github.com/Xunzhuo/OI_Sharing/tree/master/C%2B%2B)
 
 
 
-## 数学进阶
+### 数学进阶
 
 [数学](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E6%95%B0%E5%AD%A6)
 
@@ -88,9 +88,9 @@
 </div>
 
 <div align = "center">
-  <h1> 四、潜心阅读 </h1>
+  <h2> 四、潜心阅读 </h2>
 
-## 阅读书籍
+### 阅读书籍
 
 #### `算法`
 
@@ -110,7 +110,7 @@
 
 [从入门到实践](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E5%AE%9E%E8%B7%B5.pdf) || [流畅的Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/%E6%B5%81%E7%95%85%E7%9A%84python.pdf) || [Effective Python](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/Effective%20Python.pdf) || [PythonCookbook](https://github.com/Xunzhuo/OI_Sharing/blob/master/%20%E4%B9%A6%E7%B1%8D/%E8%AF%AD%E8%A8%80/Python/PythonCookbook.pdf)
 
-## 阅读论文
+### 阅读论文
 
 > 这一阶段因人而异，多练习多刷OJ才是王道！
 
@@ -125,14 +125,14 @@
 
 
 <div align="center">
-  <h1>
-    刷题训练
-  </h1>
+  <h2>
+    五、刷题训练
+  </h2>
 </div>
 
 
 
-## 练习题
+### 练习题
 
 [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)
 
@@ -140,7 +140,7 @@
 
 
 
-## 国内Online Judge
+### 国内Online Judge
 
 #### 三大OJ
 
@@ -159,7 +159,7 @@
 
 
 
-## 国外Online Judge
+### 国外Online Judge
 
 1. CF：CodeForce：http://codeforces.com/problemset 世界顶级OJ
 
@@ -173,17 +173,17 @@
 
 5. Sphere Research Labs [http://www.spoj.pl](http://www.spoj.pl/) 超过1000题，支持几乎所有常见语言
 
----
 
-## 入门到进阶的Online Judge
+
+### 入门到进阶的Online Judge
 
 1. vijos：大部分题目是NOI题目 https://vijos.org/
 2. 洛谷：https://www.luogu.org/problemnew/lists
 3. RQNOJ：和vijos很像，适合NOI刷题 http://www.rqnoj.cn/problem
 
----
 
-## 招聘面试Online Judge
+
+### 招聘面试Online Judge
 
 1. 牛客网：https://www.nowcoder.com/
 2. leetcode：https://leetcode.com/problemset/all/
