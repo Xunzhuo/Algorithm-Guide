@@ -132,7 +132,7 @@
 
 ### 练习题
 
-[习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)
+[习题](./exercise)
 
 </div>
 
