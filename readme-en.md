@@ -6,8 +6,7 @@
   </span>
 </div>
 <center>
-
-[中文](README.md)🇨🇳 | [English](readme-zh.md)🇺🇸
+[中文](README.md)🇨🇳 | [English](readme-en.md)🇺🇸
 
 </center>
 
