@@ -43,7 +43,7 @@
 
 ### 算法、数据结构、C++快速入门：
 
-[算法入门](https://github.com/Xunzhuo/OI_Sharing/tree/master/高中算法套件) || [数据结构入门](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%AD%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%A5%97%E4%BB%B6) || [C++入门](https://github.com/Xunzhuo/OI_Sharing/tree/master/%E9%AB%98%E4%B8%ADC%2B%2B%20%E5%A5%97%E4%BB%B6)
+[算法入门](./system-learn/algo) || [数据结构入门](./system-learn/ds) || [C++入门](./system-learn/c++)
 
 ## 二、专题训练
 
