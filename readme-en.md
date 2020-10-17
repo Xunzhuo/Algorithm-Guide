@@ -5,10 +5,9 @@
   <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
 </div>
-<center>
-[中文](README.md) | [English](readme-en.md)
 
-</center>
+
+[中文](README.md)/[English](readme-en.md)
 
 For Upcoming Interviews，I summarized the algorithm courseware, books, papers, exercises, OJ website，and made the Roadmap of Algorithms Learning.
 
