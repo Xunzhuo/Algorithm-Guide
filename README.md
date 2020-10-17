@@ -49,7 +49,7 @@
 
 ### 基础算法
 
-[复杂度分析](./basic-algo/Complexity) || [高精度](./basic-algo/high) || [暴力](./basic-algo/Enumerate) || [二分](./basic-algo/Dichotomy) || [分治](./basic-algo/divide)  || [搜索](./basic-algo/search) || [贪心](./basic-algo/greedy)
+[复杂度分析](./basic-algo/Complexity) || [高精度](./basic-algo/high) || [暴力](./basic-algo/Enumerate) || [二分](./basic-algo/Dichotomy) || [分治](./basic-algo/divide)  || [搜索](./basic-algo/Search) || [贪心](./basic-algo/Greedy)
 
 ### 基础数据结构
 
