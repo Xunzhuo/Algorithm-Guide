@@ -7,7 +7,7 @@
 </div>
 
 
-[中文](./README.md) / [English](./readme-en.md)
+[中文](README.md) | [English](readme-en.md)
 
 
 
