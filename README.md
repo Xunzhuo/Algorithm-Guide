@@ -1,10 +1,11 @@
 <div align="center">
 <img src="http://picreso.oss-cn-beijing.aliyuncs.com/alos.jpg" width="80%"></img>
-  <span> <h1>Algorithm in 4 Steps</h1>
+  <span> <h1>Algorithms</h1>
   <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
 </div>
-[中文](README.md) | [English](readme-en.md)
+
+
 
 因为准备实习，整理了一下算法的课件、书籍、论文、习题、OJ网站，总结了学习路线。
 
@@ -128,13 +129,16 @@
   <h2>
     五、刷题训练
   </h2>
-</div>
+
+
 
 
 
 ### 练习题
 
 [习题](https://github.com/Xunzhuo/OI_Sharing/tree/master/%20%E9%A2%98)
+
+</div>
 
 > 更有效的方式训练是直接在OJ上刷题，网站整理如下：
 
