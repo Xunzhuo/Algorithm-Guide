@@ -195,9 +195,7 @@
 4. 51nod：http://www.51nod.com/Challenge/ProblemList.html#!#isAsc=false
 5. hackerrank：https://www.hackerrank.com/
 
-![](http://picreso.oss-cn-beijing.aliyuncs.com/alpha.jpeg)
-
-
+![](http://picreso.oss-cn-beijing.aliyuncs.com/coderkoke.jpg)
 
 > 算法路上加油
 >
