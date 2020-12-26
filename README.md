@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://picreso.oss-cn-beijing.aliyuncs.com/algologo.png" width="40%"></img>
-  <span> <h1>Algorithm-Guide</h1>
+<img src="https://picreso.oss-cn-beijing.aliyuncs.com/algologo.png" width="80%"></img>
+  <span> 
   <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
 </div>
