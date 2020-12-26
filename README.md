@@ -64,23 +64,23 @@
 
    比如：[Leetcode 热题 Hot 100🔥](https://leetcode-cn.com/problemset/leetcode-hot-100/) 和 [LeetCode 精选 TOP 面试题🔥](https://leetcode-cn.com/problemset/leetcode-top/)
 
-2. 如果你**时间充裕**：可以按以下，分类别刷题：
+2. 如果你**时间充裕**：可以按以下分类，系统刷题：
 
-   1. 专题一：数组(`Chapter1_Array`)
-   2. 专题二：链表(`Chapter2_list`)
-   3. 专题三：字符串(`Chapter3_String`)
-   4. 专题四：栈(`Chapter4_Stack`)
-   5. 专题五：树(`Chapter5_Tree`)
-   6. 专题六：排序(`Chapter6_Sort`)
-   7. 专题七：查找(`Chapter7_Search`)
-   8. 专题八：暴力解法(`Chapter8_Violence`)
-   9. 专题九：BFS(`Chapter9_BFS`)
-   10. 专题十：DFS(`Chapter10_DFS`)
-   11. 专题十一：分治(`Chapter11_Paritition`)
-   12. 专题十二：贪心(`Chapter12_Greedy`)
-   13. 专题十三：动态规划(`Chapter13_DP`)
-   14. 专题十四：图(`Chapter14_Graph`)
-   15. 专题十五：不定类型(`Chapter15_Unspecific`)
+   + **专题一：数组(`Chapter1_Array`)**
+   + **专题二：链表(`Chapter2_list`)**
+   + **专题三：字符串(`Chapter3_String`)**
+   + **专题四：栈(`Chapter4_Stack`)**
+   + **专题五：树(`Chapter5_Tree`)**
+   + **专题六：排序(`Chapter6_Sort`)**
+   + **专题七：查找(`Chapter7_Search`)**
+   + **专题八：暴力解法(`Chapter8_Violence`)**
+   + **专题九：BFS(`Chapter9_BFS`)**
+   + **专题十：DFS(`Chapter10_DFS`)**
+   + **专题十一：分治(`Chapter11_Paritition`)**
+   + **专题十二：贪心(`Chapter12_Greedy`)**
+   + **专题十三：动态规划(`Chapter13_DP`)**
+   + **专题十四：图(`Chapter14_Graph`)**
+   + **专题十五：不定类型(`Chapter15_Unspecific`)**
 
 #### 怎么做题？
 
