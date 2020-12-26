@@ -9,8 +9,8 @@
 
 ## 目录👀：
 
-1. [算法篇🔥](#算法篇🔥)
-2. [数据结构篇🌳](#[数据结构篇)
+1. [算法篇🔥](#算法篇)
+2. [数据结构篇🌳](#数据结构篇)
 3. [刷题练习篇✍](#刷题练习篇)
 
 ## 算法篇🔥
@@ -25,7 +25,7 @@
 + [八、广度优先搜索算法](algorithm/bfs.md)
 + [九、深度优先搜索算法](algorithm/dfs.md)
 + [十、回溯算法](algorithm/backtrace.md)
-+ [十一、动态规划](algorithm/dynamic programming.md)
++ [十一、动态规划](algorithm/dynamic%20programming.md)
 + [十二、字符串算法](algorithm/string.md)
 
 ## 数据结构篇🌳
