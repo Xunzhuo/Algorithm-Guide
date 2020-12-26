@@ -1,4 +1,4 @@
-<img src="https://picreso.oss-cn-beijing.aliyuncs.com/algologo.png" width="100%"></img>
+# Algorithm Guide 🌈
 
 > 本仓库带你系统掌握程序员必知必会的**算法**和**数据结构**
 >
