@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://picreso.oss-cn-beijing.aliyuncs.com/algologo.png" width="80%"></img>
+<img src="https://picreso.oss-cn-beijing.aliyuncs.com/algologo.png" width="60%"></img>
   <span> 
   <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
