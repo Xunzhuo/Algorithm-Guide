@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://picreso.oss-cn-beijing.aliyuncs.com/algo-logo.png" width="20%"></img>
-  <span> <h1>Algorithms-in-4-Steps</h1>
+  <span> <h1>Algorithm-Guide</h1>
   <h2> Let Everyone Study Algorithm Easier</h2>
   </span>
 </div>
