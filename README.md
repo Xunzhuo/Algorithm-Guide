@@ -4,9 +4,9 @@
 >
 > 本仓库主要有**两个分支**：
 >
-> + **master分支**，最近的新分支，也是以后日常维护的主分支😀，内容为算法和数据结构的教程。
+> + **master分支**：最近的新分支，也是以后日常维护的主分支😀，内容为算法和数据结构的教程。
 >   + （最近很忙，还有很多未完成部分，空闲时会加快完善🚀）
-> + **Collections 分支**，以前的主分支，整理了算法和数据结构的资料，现作为辅助分支，[这里访问](https://github.com/Xunzhuo/Algorithms-in-4-Steps/tree/Collections)🚀
+> + **Collections 分支**：以前的主分支，整理了算法和数据结构的资料，现作为辅助分支，[这里访问](https://github.com/Xunzhuo/Algorithms-in-4-Steps/tree/Collections)🚀
 
 ## 目录👀：
 
