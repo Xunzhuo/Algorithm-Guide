@@ -33,20 +33,20 @@
 + [九、深度优先搜索算法](algorithm/dfs.md)
 + [十、回溯算法](algorithm/backtrace.md)
 + [十一、动态规划](algorithm/dynamic%20programming.md)
-+ [十二、字符串算法](algorithm/string.md) TODO😭
++ [十二、字符串算法](algorithm/string.md) 
 
 ## 数据结构篇🌳
 
 + [一、栈](data-structure/stack.md)
 + [二、队列](data-structure/queue.md)
-+ [三、树](data-structure/tree.md) TODO😭
-+ [四、堆](data-structure/heap.md) TODO😭
-+ [五、图论算法 ](data-structure/graph.md) TODO😭
-+ [六、并查集](data-structure/DisjointSets.md)  TODO😭
-+ [七、最小生成树](data-structure/kruskal.md) TODO😭
-+ [八、拓扑排序与关键路径](data-structure/key-path.md) TODO😭
-+ [九、线段树](data-structure/line-tree.md) TODO😭
-+ [十、树状数组](data-structure/tree-array.md) TODO😭
++ [三、树](data-structure/tree.md) 
++ [四、堆](data-structure/heap.md) 
++ [五、图论算法 ](data-structure/graph.md) 
++ [六、并查集](data-structure/DisjointSets.md)  
++ [七、最小生成树](data-structure/kruskal.md) 
++ [八、拓扑排序与关键路径](data-structure/key-path.md) 
++ [九、线段树](data-structure/line-tree.md) 
++ [十、树状数组](data-structure/tree-array.md) 
 
 ##  刷题练习篇✍
 
