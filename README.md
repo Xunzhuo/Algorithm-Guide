@@ -4,8 +4,6 @@
   </h1>
   </div>
 
-[![Stargazers over time](https://starchart.cc/Xunzhuo/Algorithm-Guide.svg)](https://starchart.cc/Xunzhuo/Algorithm-Guide)
-
 > 本仓库带你系统掌握程序员必知必会的**算法**和**数据结构**
 >
 > 本仓库主要有**两个分支**：
