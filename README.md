@@ -14,6 +14,10 @@
 >
 > + **Collections 分支**：以前的主分支，整理了算法和数据结构的资料，现作为辅助分支，[这里访问](https://github.com/Xunzhuo/Algorithms-in-4-Steps/tree/Collections)🚀
 
+## Star History ♥
+
+[Stars](https://star-history.t9t.io/#Xunzhuo/Algorithm-Guide)
+
 ## 目录👀：
 
 1. [算法篇🔥](#算法篇)
