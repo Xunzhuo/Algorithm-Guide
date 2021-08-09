@@ -16,7 +16,7 @@
 
 ## Star History ♥
 
-[Stars](https://star-history.t9t.io/#Xunzhuo/Algorithm-Guide)
+![Stars](https://star-history.t9t.io/#Xunzhuo/Algorithm-Guide)
 
 ## 目录👀：
 
